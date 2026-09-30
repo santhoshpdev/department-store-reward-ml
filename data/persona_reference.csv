@@ -1,0 +1,1501 @@
+customer_id,latent_persona
+C0001,New
+C0002,At-Risk
+C0003,Regular
+C0004,Price-Sensitive
+C0005,High-Value Loyal
+C0006,New
+C0007,Price-Sensitive
+C0008,Occasional
+C0009,High-Value Loyal
+C0010,At-Risk
+C0011,High-Value Loyal
+C0012,Regular
+C0013,High-Value Loyal
+C0014,Price-Sensitive
+C0015,Regular
+C0016,At-Risk
+C0017,Occasional
+C0018,High-Value Loyal
+C0019,High-Value Loyal
+C0020,High-Value Loyal
+C0021,Occasional
+C0022,Price-Sensitive
+C0023,Regular
+C0024,Price-Sensitive
+C0025,High-Value Loyal
+C0026,Price-Sensitive
+C0027,At-Risk
+C0028,Price-Sensitive
+C0029,Price-Sensitive
+C0030,Price-Sensitive
+C0031,High-Value Loyal
+C0032,Regular
+C0033,High-Value Loyal
+C0034,Occasional
+C0035,Price-Sensitive
+C0036,Occasional
+C0037,At-Risk
+C0038,High-Value Loyal
+C0039,Price-Sensitive
+C0040,Regular
+C0041,Regular
+C0042,Price-Sensitive
+C0043,New
+C0044,Occasional
+C0045,High-Value Loyal
+C0046,Occasional
+C0047,High-Value Loyal
+C0048,At-Risk
+C0049,Price-Sensitive
+C0050,Regular
+C0051,High-Value Loyal
+C0052,Regular
+C0053,New
+C0054,Occasional
+C0055,Price-Sensitive
+C0056,Occasional
+C0057,Occasional
+C0058,High-Value Loyal
+C0059,At-Risk
+C0060,Regular
+C0061,Occasional
+C0062,Price-Sensitive
+C0063,Occasional
+C0064,At-Risk
+C0065,High-Value Loyal
+C0066,Occasional
+C0067,Regular
+C0068,Occasional
+C0069,High-Value Loyal
+C0070,High-Value Loyal
+C0071,Regular
+C0072,Regular
+C0073,Regular
+C0074,Occasional
+C0075,Occasional
+C0076,Regular
+C0077,Regular
+C0078,Regular
+C0079,Occasional
+C0080,Regular
+C0081,High-Value Loyal
+C0082,Regular
+C0083,Occasional
+C0084,Regular
+C0085,Occasional
+C0086,Occasional
+C0087,Price-Sensitive
+C0088,Occasional
+C0089,Occasional
+C0090,Regular
+C0091,Price-Sensitive
+C0092,Occasional
+C0093,Regular
+C0094,Occasional
+C0095,Regular
+C0096,Occasional
+C0097,Price-Sensitive
+C0098,At-Risk
+C0099,At-Risk
+C0100,Occasional
+C0101,Occasional
+C0102,Price-Sensitive
+C0103,Regular
+C0104,Price-Sensitive
+C0105,Occasional
+C0106,High-Value Loyal
+C0107,High-Value Loyal
+C0108,Price-Sensitive
+C0109,High-Value Loyal
+C0110,Regular
+C0111,Regular
+C0112,Regular
+C0113,Regular
+C0114,Price-Sensitive
+C0115,High-Value Loyal
+C0116,Price-Sensitive
+C0117,At-Risk
+C0118,Regular
+C0119,High-Value Loyal
+C0120,Occasional
+C0121,High-Value Loyal
+C0122,Regular
+C0123,New
+C0124,New
+C0125,Price-Sensitive
+C0126,Regular
+C0127,Price-Sensitive
+C0128,Price-Sensitive
+C0129,Regular
+C0130,Occasional
+C0131,High-Value Loyal
+C0132,Regular
+C0133,Occasional
+C0134,Regular
+C0135,Regular
+C0136,Price-Sensitive
+C0137,New
+C0138,Occasional
+C0139,Price-Sensitive
+C0140,New
+C0141,High-Value Loyal
+C0142,Occasional
+C0143,Regular
+C0144,High-Value Loyal
+C0145,Price-Sensitive
+C0146,Regular
+C0147,Occasional
+C0148,High-Value Loyal
+C0149,Regular
+C0150,At-Risk
+C0151,High-Value Loyal
+C0152,Regular
+C0153,Regular
+C0154,Occasional
+C0155,Occasional
+C0156,Occasional
+C0157,High-Value Loyal
+C0158,Regular
+C0159,Price-Sensitive
+C0160,Occasional
+C0161,Occasional
+C0162,Price-Sensitive
+C0163,Price-Sensitive
+C0164,High-Value Loyal
+C0165,Regular
+C0166,Occasional
+C0167,Regular
+C0168,Price-Sensitive
+C0169,Occasional
+C0170,Price-Sensitive
+C0171,At-Risk
+C0172,Occasional
+C0173,At-Risk
+C0174,Occasional
+C0175,At-Risk
+C0176,Regular
+C0177,Occasional
+C0178,Occasional
+C0179,High-Value Loyal
+C0180,Regular
+C0181,At-Risk
+C0182,Occasional
+C0183,Regular
+C0184,Regular
+C0185,Regular
+C0186,High-Value Loyal
+C0187,At-Risk
+C0188,Occasional
+C0189,Regular
+C0190,Occasional
+C0191,High-Value Loyal
+C0192,Regular
+C0193,Price-Sensitive
+C0194,Occasional
+C0195,New
+C0196,Occasional
+C0197,Occasional
+C0198,Price-Sensitive
+C0199,At-Risk
+C0200,Price-Sensitive
+C0201,New
+C0202,Price-Sensitive
+C0203,At-Risk
+C0204,High-Value Loyal
+C0205,Price-Sensitive
+C0206,Occasional
+C0207,Occasional
+C0208,Occasional
+C0209,New
+C0210,New
+C0211,Regular
+C0212,Price-Sensitive
+C0213,Price-Sensitive
+C0214,Regular
+C0215,High-Value Loyal
+C0216,High-Value Loyal
+C0217,Price-Sensitive
+C0218,Occasional
+C0219,New
+C0220,Occasional
+C0221,New
+C0222,Regular
+C0223,Price-Sensitive
+C0224,High-Value Loyal
+C0225,Occasional
+C0226,Price-Sensitive
+C0227,At-Risk
+C0228,Price-Sensitive
+C0229,High-Value Loyal
+C0230,Regular
+C0231,High-Value Loyal
+C0232,High-Value Loyal
+C0233,Price-Sensitive
+C0234,Price-Sensitive
+C0235,Price-Sensitive
+C0236,At-Risk
+C0237,Price-Sensitive
+C0238,Price-Sensitive
+C0239,High-Value Loyal
+C0240,Regular
+C0241,Occasional
+C0242,At-Risk
+C0243,High-Value Loyal
+C0244,Occasional
+C0245,Price-Sensitive
+C0246,High-Value Loyal
+C0247,Regular
+C0248,At-Risk
+C0249,Price-Sensitive
+C0250,Regular
+C0251,At-Risk
+C0252,Regular
+C0253,At-Risk
+C0254,Regular
+C0255,Occasional
+C0256,Regular
+C0257,Regular
+C0258,At-Risk
+C0259,Regular
+C0260,High-Value Loyal
+C0261,Regular
+C0262,Price-Sensitive
+C0263,Price-Sensitive
+C0264,New
+C0265,Regular
+C0266,Regular
+C0267,High-Value Loyal
+C0268,Occasional
+C0269,New
+C0270,Price-Sensitive
+C0271,Occasional
+C0272,Regular
+C0273,At-Risk
+C0274,Occasional
+C0275,High-Value Loyal
+C0276,Regular
+C0277,High-Value Loyal
+C0278,Regular
+C0279,High-Value Loyal
+C0280,Occasional
+C0281,Occasional
+C0282,Regular
+C0283,Regular
+C0284,New
+C0285,Price-Sensitive
+C0286,Occasional
+C0287,Regular
+C0288,At-Risk
+C0289,Regular
+C0290,Regular
+C0291,At-Risk
+C0292,Occasional
+C0293,Price-Sensitive
+C0294,Occasional
+C0295,Occasional
+C0296,Regular
+C0297,Regular
+C0298,Regular
+C0299,High-Value Loyal
+C0300,At-Risk
+C0301,Regular
+C0302,Occasional
+C0303,Price-Sensitive
+C0304,Price-Sensitive
+C0305,Regular
+C0306,Occasional
+C0307,New
+C0308,Price-Sensitive
+C0309,Price-Sensitive
+C0310,At-Risk
+C0311,Price-Sensitive
+C0312,Regular
+C0313,Occasional
+C0314,High-Value Loyal
+C0315,Occasional
+C0316,New
+C0317,Occasional
+C0318,Regular
+C0319,High-Value Loyal
+C0320,New
+C0321,High-Value Loyal
+C0322,High-Value Loyal
+C0323,Regular
+C0324,High-Value Loyal
+C0325,Occasional
+C0326,Occasional
+C0327,Regular
+C0328,High-Value Loyal
+C0329,High-Value Loyal
+C0330,Regular
+C0331,High-Value Loyal
+C0332,Price-Sensitive
+C0333,Regular
+C0334,Regular
+C0335,Regular
+C0336,Regular
+C0337,High-Value Loyal
+C0338,High-Value Loyal
+C0339,At-Risk
+C0340,High-Value Loyal
+C0341,Occasional
+C0342,Occasional
+C0343,Regular
+C0344,Regular
+C0345,Price-Sensitive
+C0346,Price-Sensitive
+C0347,Regular
+C0348,Regular
+C0349,Regular
+C0350,Occasional
+C0351,Price-Sensitive
+C0352,Regular
+C0353,Regular
+C0354,At-Risk
+C0355,High-Value Loyal
+C0356,Occasional
+C0357,Price-Sensitive
+C0358,High-Value Loyal
+C0359,High-Value Loyal
+C0360,High-Value Loyal
+C0361,At-Risk
+C0362,High-Value Loyal
+C0363,Regular
+C0364,High-Value Loyal
+C0365,High-Value Loyal
+C0366,Occasional
+C0367,Regular
+C0368,Occasional
+C0369,Occasional
+C0370,Price-Sensitive
+C0371,High-Value Loyal
+C0372,At-Risk
+C0373,Occasional
+C0374,Regular
+C0375,Price-Sensitive
+C0376,At-Risk
+C0377,Regular
+C0378,At-Risk
+C0379,Occasional
+C0380,Occasional
+C0381,New
+C0382,Regular
+C0383,Price-Sensitive
+C0384,Regular
+C0385,Price-Sensitive
+C0386,Occasional
+C0387,Regular
+C0388,Regular
+C0389,Regular
+C0390,High-Value Loyal
+C0391,High-Value Loyal
+C0392,Regular
+C0393,High-Value Loyal
+C0394,Regular
+C0395,Price-Sensitive
+C0396,Price-Sensitive
+C0397,Price-Sensitive
+C0398,Regular
+C0399,At-Risk
+C0400,Occasional
+C0401,High-Value Loyal
+C0402,High-Value Loyal
+C0403,Price-Sensitive
+C0404,Regular
+C0405,Occasional
+C0406,New
+C0407,High-Value Loyal
+C0408,High-Value Loyal
+C0409,New
+C0410,Occasional
+C0411,High-Value Loyal
+C0412,At-Risk
+C0413,At-Risk
+C0414,Occasional
+C0415,Occasional
+C0416,Regular
+C0417,High-Value Loyal
+C0418,Occasional
+C0419,Regular
+C0420,Price-Sensitive
+C0421,Price-Sensitive
+C0422,High-Value Loyal
+C0423,Occasional
+C0424,Regular
+C0425,At-Risk
+C0426,Regular
+C0427,Occasional
+C0428,Occasional
+C0429,Regular
+C0430,Price-Sensitive
+C0431,Price-Sensitive
+C0432,Occasional
+C0433,Price-Sensitive
+C0434,New
+C0435,Regular
+C0436,Occasional
+C0437,High-Value Loyal
+C0438,Price-Sensitive
+C0439,Occasional
+C0440,Regular
+C0441,High-Value Loyal
+C0442,At-Risk
+C0443,Regular
+C0444,Price-Sensitive
+C0445,High-Value Loyal
+C0446,New
+C0447,Regular
+C0448,Regular
+C0449,At-Risk
+C0450,At-Risk
+C0451,Regular
+C0452,Occasional
+C0453,Price-Sensitive
+C0454,At-Risk
+C0455,Regular
+C0456,Occasional
+C0457,Price-Sensitive
+C0458,Price-Sensitive
+C0459,Price-Sensitive
+C0460,Occasional
+C0461,High-Value Loyal
+C0462,At-Risk
+C0463,At-Risk
+C0464,Price-Sensitive
+C0465,High-Value Loyal
+C0466,Regular
+C0467,Price-Sensitive
+C0468,High-Value Loyal
+C0469,New
+C0470,Regular
+C0471,Price-Sensitive
+C0472,At-Risk
+C0473,Regular
+C0474,Regular
+C0475,Occasional
+C0476,Occasional
+C0477,Regular
+C0478,Occasional
+C0479,At-Risk
+C0480,Occasional
+C0481,Regular
+C0482,Regular
+C0483,Regular
+C0484,High-Value Loyal
+C0485,Regular
+C0486,Price-Sensitive
+C0487,Regular
+C0488,New
+C0489,Regular
+C0490,High-Value Loyal
+C0491,Price-Sensitive
+C0492,At-Risk
+C0493,Regular
+C0494,Regular
+C0495,Regular
+C0496,Occasional
+C0497,Occasional
+C0498,Regular
+C0499,High-Value Loyal
+C0500,Occasional
+C0501,New
+C0502,Occasional
+C0503,Occasional
+C0504,High-Value Loyal
+C0505,Regular
+C0506,Regular
+C0507,Price-Sensitive
+C0508,At-Risk
+C0509,At-Risk
+C0510,New
+C0511,New
+C0512,New
+C0513,High-Value Loyal
+C0514,High-Value Loyal
+C0515,Regular
+C0516,Occasional
+C0517,High-Value Loyal
+C0518,Price-Sensitive
+C0519,Occasional
+C0520,Occasional
+C0521,Regular
+C0522,Regular
+C0523,Regular
+C0524,At-Risk
+C0525,Occasional
+C0526,Price-Sensitive
+C0527,Regular
+C0528,Regular
+C0529,Regular
+C0530,Price-Sensitive
+C0531,Price-Sensitive
+C0532,Regular
+C0533,At-Risk
+C0534,High-Value Loyal
+C0535,At-Risk
+C0536,High-Value Loyal
+C0537,Regular
+C0538,Price-Sensitive
+C0539,Regular
+C0540,Regular
+C0541,Occasional
+C0542,Regular
+C0543,Price-Sensitive
+C0544,At-Risk
+C0545,At-Risk
+C0546,Regular
+C0547,Occasional
+C0548,Regular
+C0549,Regular
+C0550,Regular
+C0551,At-Risk
+C0552,At-Risk
+C0553,Price-Sensitive
+C0554,Occasional
+C0555,Occasional
+C0556,Occasional
+C0557,Occasional
+C0558,Regular
+C0559,High-Value Loyal
+C0560,High-Value Loyal
+C0561,New
+C0562,Occasional
+C0563,New
+C0564,Regular
+C0565,Occasional
+C0566,Regular
+C0567,Regular
+C0568,High-Value Loyal
+C0569,High-Value Loyal
+C0570,At-Risk
+C0571,Regular
+C0572,Occasional
+C0573,Occasional
+C0574,Regular
+C0575,Occasional
+C0576,Regular
+C0577,New
+C0578,Price-Sensitive
+C0579,Price-Sensitive
+C0580,Occasional
+C0581,High-Value Loyal
+C0582,At-Risk
+C0583,Regular
+C0584,High-Value Loyal
+C0585,Regular
+C0586,Price-Sensitive
+C0587,Occasional
+C0588,Price-Sensitive
+C0589,Price-Sensitive
+C0590,Regular
+C0591,At-Risk
+C0592,Regular
+C0593,Occasional
+C0594,High-Value Loyal
+C0595,New
+C0596,Regular
+C0597,High-Value Loyal
+C0598,Occasional
+C0599,High-Value Loyal
+C0600,High-Value Loyal
+C0601,Occasional
+C0602,Regular
+C0603,At-Risk
+C0604,Regular
+C0605,Price-Sensitive
+C0606,Occasional
+C0607,Occasional
+C0608,Occasional
+C0609,Occasional
+C0610,New
+C0611,Regular
+C0612,Regular
+C0613,Price-Sensitive
+C0614,Price-Sensitive
+C0615,High-Value Loyal
+C0616,Occasional
+C0617,At-Risk
+C0618,Price-Sensitive
+C0619,New
+C0620,Occasional
+C0621,Occasional
+C0622,Regular
+C0623,At-Risk
+C0624,Regular
+C0625,Price-Sensitive
+C0626,Regular
+C0627,Occasional
+C0628,Price-Sensitive
+C0629,Occasional
+C0630,At-Risk
+C0631,Regular
+C0632,Occasional
+C0633,Regular
+C0634,Regular
+C0635,Occasional
+C0636,High-Value Loyal
+C0637,High-Value Loyal
+C0638,Price-Sensitive
+C0639,Occasional
+C0640,Price-Sensitive
+C0641,High-Value Loyal
+C0642,Regular
+C0643,Regular
+C0644,Price-Sensitive
+C0645,At-Risk
+C0646,Regular
+C0647,Price-Sensitive
+C0648,High-Value Loyal
+C0649,Regular
+C0650,High-Value Loyal
+C0651,Regular
+C0652,Price-Sensitive
+C0653,At-Risk
+C0654,Regular
+C0655,Occasional
+C0656,Price-Sensitive
+C0657,New
+C0658,Occasional
+C0659,Regular
+C0660,Occasional
+C0661,Regular
+C0662,New
+C0663,Regular
+C0664,Price-Sensitive
+C0665,High-Value Loyal
+C0666,Regular
+C0667,At-Risk
+C0668,Occasional
+C0669,Occasional
+C0670,At-Risk
+C0671,At-Risk
+C0672,Regular
+C0673,Occasional
+C0674,Occasional
+C0675,Occasional
+C0676,Regular
+C0677,Regular
+C0678,At-Risk
+C0679,At-Risk
+C0680,Price-Sensitive
+C0681,New
+C0682,Price-Sensitive
+C0683,Price-Sensitive
+C0684,Price-Sensitive
+C0685,Occasional
+C0686,Occasional
+C0687,Regular
+C0688,Occasional
+C0689,Regular
+C0690,Regular
+C0691,Occasional
+C0692,Regular
+C0693,Regular
+C0694,Price-Sensitive
+C0695,At-Risk
+C0696,Regular
+C0697,High-Value Loyal
+C0698,Regular
+C0699,Price-Sensitive
+C0700,Price-Sensitive
+C0701,High-Value Loyal
+C0702,Price-Sensitive
+C0703,High-Value Loyal
+C0704,Regular
+C0705,New
+C0706,Regular
+C0707,High-Value Loyal
+C0708,Regular
+C0709,Occasional
+C0710,At-Risk
+C0711,New
+C0712,High-Value Loyal
+C0713,High-Value Loyal
+C0714,Price-Sensitive
+C0715,Regular
+C0716,At-Risk
+C0717,Price-Sensitive
+C0718,High-Value Loyal
+C0719,Price-Sensitive
+C0720,Regular
+C0721,Regular
+C0722,Occasional
+C0723,Occasional
+C0724,Price-Sensitive
+C0725,Occasional
+C0726,New
+C0727,New
+C0728,Occasional
+C0729,High-Value Loyal
+C0730,Price-Sensitive
+C0731,New
+C0732,Regular
+C0733,Occasional
+C0734,Regular
+C0735,High-Value Loyal
+C0736,Price-Sensitive
+C0737,Regular
+C0738,Price-Sensitive
+C0739,Price-Sensitive
+C0740,Price-Sensitive
+C0741,Regular
+C0742,Regular
+C0743,Price-Sensitive
+C0744,Price-Sensitive
+C0745,Occasional
+C0746,At-Risk
+C0747,High-Value Loyal
+C0748,At-Risk
+C0749,High-Value Loyal
+C0750,High-Value Loyal
+C0751,Occasional
+C0752,High-Value Loyal
+C0753,High-Value Loyal
+C0754,High-Value Loyal
+C0755,Regular
+C0756,Price-Sensitive
+C0757,High-Value Loyal
+C0758,Occasional
+C0759,Price-Sensitive
+C0760,Regular
+C0761,High-Value Loyal
+C0762,At-Risk
+C0763,Price-Sensitive
+C0764,Occasional
+C0765,Price-Sensitive
+C0766,High-Value Loyal
+C0767,Regular
+C0768,Price-Sensitive
+C0769,Regular
+C0770,Price-Sensitive
+C0771,Occasional
+C0772,Price-Sensitive
+C0773,Occasional
+C0774,Regular
+C0775,Regular
+C0776,Regular
+C0777,Price-Sensitive
+C0778,High-Value Loyal
+C0779,High-Value Loyal
+C0780,Regular
+C0781,Regular
+C0782,Price-Sensitive
+C0783,Regular
+C0784,New
+C0785,High-Value Loyal
+C0786,Occasional
+C0787,Occasional
+C0788,Regular
+C0789,At-Risk
+C0790,New
+C0791,At-Risk
+C0792,Regular
+C0793,Regular
+C0794,Occasional
+C0795,Regular
+C0796,Price-Sensitive
+C0797,Occasional
+C0798,Occasional
+C0799,Price-Sensitive
+C0800,Price-Sensitive
+C0801,High-Value Loyal
+C0802,High-Value Loyal
+C0803,Occasional
+C0804,Occasional
+C0805,Regular
+C0806,Regular
+C0807,Price-Sensitive
+C0808,Price-Sensitive
+C0809,Occasional
+C0810,Regular
+C0811,Regular
+C0812,Occasional
+C0813,Regular
+C0814,Occasional
+C0815,Price-Sensitive
+C0816,High-Value Loyal
+C0817,High-Value Loyal
+C0818,Regular
+C0819,At-Risk
+C0820,Occasional
+C0821,Regular
+C0822,At-Risk
+C0823,Occasional
+C0824,Occasional
+C0825,At-Risk
+C0826,High-Value Loyal
+C0827,Regular
+C0828,Occasional
+C0829,Regular
+C0830,Price-Sensitive
+C0831,Regular
+C0832,High-Value Loyal
+C0833,Regular
+C0834,Regular
+C0835,Regular
+C0836,High-Value Loyal
+C0837,At-Risk
+C0838,Regular
+C0839,Regular
+C0840,High-Value Loyal
+C0841,Regular
+C0842,Regular
+C0843,Occasional
+C0844,Regular
+C0845,At-Risk
+C0846,At-Risk
+C0847,High-Value Loyal
+C0848,High-Value Loyal
+C0849,High-Value Loyal
+C0850,Occasional
+C0851,High-Value Loyal
+C0852,At-Risk
+C0853,Price-Sensitive
+C0854,Price-Sensitive
+C0855,Occasional
+C0856,New
+C0857,High-Value Loyal
+C0858,Regular
+C0859,Regular
+C0860,At-Risk
+C0861,Occasional
+C0862,Price-Sensitive
+C0863,Regular
+C0864,New
+C0865,Occasional
+C0866,Occasional
+C0867,New
+C0868,Regular
+C0869,Regular
+C0870,Occasional
+C0871,High-Value Loyal
+C0872,Regular
+C0873,Regular
+C0874,High-Value Loyal
+C0875,At-Risk
+C0876,Occasional
+C0877,Regular
+C0878,Regular
+C0879,Regular
+C0880,Occasional
+C0881,At-Risk
+C0882,At-Risk
+C0883,Regular
+C0884,Regular
+C0885,Occasional
+C0886,Occasional
+C0887,Occasional
+C0888,Occasional
+C0889,Occasional
+C0890,Regular
+C0891,Regular
+C0892,Regular
+C0893,High-Value Loyal
+C0894,Regular
+C0895,Price-Sensitive
+C0896,Regular
+C0897,Regular
+C0898,Occasional
+C0899,Price-Sensitive
+C0900,Regular
+C0901,Price-Sensitive
+C0902,At-Risk
+C0903,Occasional
+C0904,Price-Sensitive
+C0905,High-Value Loyal
+C0906,At-Risk
+C0907,Regular
+C0908,At-Risk
+C0909,Occasional
+C0910,High-Value Loyal
+C0911,High-Value Loyal
+C0912,Price-Sensitive
+C0913,Occasional
+C0914,High-Value Loyal
+C0915,Price-Sensitive
+C0916,At-Risk
+C0917,Occasional
+C0918,Occasional
+C0919,High-Value Loyal
+C0920,Price-Sensitive
+C0921,Regular
+C0922,At-Risk
+C0923,Regular
+C0924,Occasional
+C0925,Regular
+C0926,Regular
+C0927,Price-Sensitive
+C0928,Occasional
+C0929,Occasional
+C0930,New
+C0931,New
+C0932,At-Risk
+C0933,Regular
+C0934,Occasional
+C0935,At-Risk
+C0936,Regular
+C0937,High-Value Loyal
+C0938,Price-Sensitive
+C0939,Occasional
+C0940,Occasional
+C0941,New
+C0942,Occasional
+C0943,Regular
+C0944,Regular
+C0945,Regular
+C0946,High-Value Loyal
+C0947,Price-Sensitive
+C0948,Price-Sensitive
+C0949,Regular
+C0950,Regular
+C0951,At-Risk
+C0952,High-Value Loyal
+C0953,Occasional
+C0954,Occasional
+C0955,Price-Sensitive
+C0956,Regular
+C0957,Price-Sensitive
+C0958,Regular
+C0959,Occasional
+C0960,High-Value Loyal
+C0961,Occasional
+C0962,Occasional
+C0963,Regular
+C0964,High-Value Loyal
+C0965,Regular
+C0966,Regular
+C0967,High-Value Loyal
+C0968,At-Risk
+C0969,Regular
+C0970,Price-Sensitive
+C0971,New
+C0972,High-Value Loyal
+C0973,Occasional
+C0974,At-Risk
+C0975,Occasional
+C0976,Regular
+C0977,Regular
+C0978,High-Value Loyal
+C0979,Occasional
+C0980,New
+C0981,New
+C0982,High-Value Loyal
+C0983,Price-Sensitive
+C0984,Regular
+C0985,At-Risk
+C0986,High-Value Loyal
+C0987,At-Risk
+C0988,Price-Sensitive
+C0989,High-Value Loyal
+C0990,High-Value Loyal
+C0991,Price-Sensitive
+C0992,High-Value Loyal
+C0993,Occasional
+C0994,At-Risk
+C0995,Occasional
+C0996,Regular
+C0997,Occasional
+C0998,High-Value Loyal
+C0999,New
+C1000,Regular
+C1001,Regular
+C1002,Regular
+C1003,New
+C1004,High-Value Loyal
+C1005,At-Risk
+C1006,Price-Sensitive
+C1007,Price-Sensitive
+C1008,New
+C1009,Price-Sensitive
+C1010,At-Risk
+C1011,High-Value Loyal
+C1012,Price-Sensitive
+C1013,Occasional
+C1014,Occasional
+C1015,At-Risk
+C1016,New
+C1017,Price-Sensitive
+C1018,Occasional
+C1019,Occasional
+C1020,Regular
+C1021,Regular
+C1022,Regular
+C1023,High-Value Loyal
+C1024,High-Value Loyal
+C1025,Price-Sensitive
+C1026,Occasional
+C1027,At-Risk
+C1028,Occasional
+C1029,High-Value Loyal
+C1030,High-Value Loyal
+C1031,Regular
+C1032,New
+C1033,Regular
+C1034,Occasional
+C1035,At-Risk
+C1036,New
+C1037,Regular
+C1038,High-Value Loyal
+C1039,High-Value Loyal
+C1040,High-Value Loyal
+C1041,Regular
+C1042,Occasional
+C1043,At-Risk
+C1044,Occasional
+C1045,Occasional
+C1046,Regular
+C1047,Price-Sensitive
+C1048,Occasional
+C1049,At-Risk
+C1050,At-Risk
+C1051,Regular
+C1052,High-Value Loyal
+C1053,Regular
+C1054,Regular
+C1055,At-Risk
+C1056,Regular
+C1057,Price-Sensitive
+C1058,Occasional
+C1059,Regular
+C1060,Regular
+C1061,Occasional
+C1062,Price-Sensitive
+C1063,Regular
+C1064,Regular
+C1065,Price-Sensitive
+C1066,Regular
+C1067,At-Risk
+C1068,Regular
+C1069,High-Value Loyal
+C1070,Occasional
+C1071,Occasional
+C1072,Occasional
+C1073,Regular
+C1074,New
+C1075,Occasional
+C1076,Occasional
+C1077,Regular
+C1078,High-Value Loyal
+C1079,Occasional
+C1080,Regular
+C1081,Occasional
+C1082,High-Value Loyal
+C1083,New
+C1084,Occasional
+C1085,At-Risk
+C1086,Occasional
+C1087,High-Value Loyal
+C1088,Price-Sensitive
+C1089,Occasional
+C1090,Price-Sensitive
+C1091,Regular
+C1092,Occasional
+C1093,At-Risk
+C1094,Occasional
+C1095,Regular
+C1096,Price-Sensitive
+C1097,Price-Sensitive
+C1098,New
+C1099,Regular
+C1100,Regular
+C1101,Price-Sensitive
+C1102,Occasional
+C1103,Price-Sensitive
+C1104,Occasional
+C1105,Regular
+C1106,Price-Sensitive
+C1107,High-Value Loyal
+C1108,Regular
+C1109,Occasional
+C1110,Price-Sensitive
+C1111,At-Risk
+C1112,Regular
+C1113,High-Value Loyal
+C1114,New
+C1115,High-Value Loyal
+C1116,Regular
+C1117,Regular
+C1118,Occasional
+C1119,At-Risk
+C1120,Price-Sensitive
+C1121,Price-Sensitive
+C1122,Regular
+C1123,Regular
+C1124,Occasional
+C1125,High-Value Loyal
+C1126,Regular
+C1127,Regular
+C1128,High-Value Loyal
+C1129,Occasional
+C1130,Price-Sensitive
+C1131,High-Value Loyal
+C1132,Occasional
+C1133,Price-Sensitive
+C1134,Price-Sensitive
+C1135,Price-Sensitive
+C1136,Occasional
+C1137,Price-Sensitive
+C1138,Regular
+C1139,Regular
+C1140,Regular
+C1141,Occasional
+C1142,Regular
+C1143,Regular
+C1144,Price-Sensitive
+C1145,Regular
+C1146,Regular
+C1147,High-Value Loyal
+C1148,Regular
+C1149,Regular
+C1150,Regular
+C1151,Regular
+C1152,Price-Sensitive
+C1153,At-Risk
+C1154,Occasional
+C1155,Occasional
+C1156,At-Risk
+C1157,New
+C1158,Occasional
+C1159,At-Risk
+C1160,At-Risk
+C1161,Price-Sensitive
+C1162,Occasional
+C1163,High-Value Loyal
+C1164,High-Value Loyal
+C1165,Occasional
+C1166,Occasional
+C1167,Regular
+C1168,Occasional
+C1169,Occasional
+C1170,Price-Sensitive
+C1171,High-Value Loyal
+C1172,Regular
+C1173,Price-Sensitive
+C1174,Price-Sensitive
+C1175,New
+C1176,At-Risk
+C1177,At-Risk
+C1178,Regular
+C1179,Regular
+C1180,Regular
+C1181,Occasional
+C1182,At-Risk
+C1183,Regular
+C1184,Occasional
+C1185,Regular
+C1186,Regular
+C1187,Regular
+C1188,High-Value Loyal
+C1189,At-Risk
+C1190,Regular
+C1191,Price-Sensitive
+C1192,Price-Sensitive
+C1193,Regular
+C1194,Regular
+C1195,Price-Sensitive
+C1196,Regular
+C1197,At-Risk
+C1198,High-Value Loyal
+C1199,Price-Sensitive
+C1200,Price-Sensitive
+C1201,Regular
+C1202,Regular
+C1203,New
+C1204,Regular
+C1205,Regular
+C1206,Regular
+C1207,Regular
+C1208,Price-Sensitive
+C1209,Price-Sensitive
+C1210,Regular
+C1211,Price-Sensitive
+C1212,Regular
+C1213,High-Value Loyal
+C1214,Occasional
+C1215,New
+C1216,High-Value Loyal
+C1217,Regular
+C1218,Occasional
+C1219,Price-Sensitive
+C1220,High-Value Loyal
+C1221,Regular
+C1222,Price-Sensitive
+C1223,Regular
+C1224,Regular
+C1225,Regular
+C1226,Regular
+C1227,Occasional
+C1228,At-Risk
+C1229,Occasional
+C1230,Price-Sensitive
+C1231,New
+C1232,Regular
+C1233,Regular
+C1234,At-Risk
+C1235,Regular
+C1236,Price-Sensitive
+C1237,Price-Sensitive
+C1238,High-Value Loyal
+C1239,Occasional
+C1240,Regular
+C1241,Regular
+C1242,Occasional
+C1243,Regular
+C1244,Price-Sensitive
+C1245,At-Risk
+C1246,Price-Sensitive
+C1247,Regular
+C1248,Regular
+C1249,Regular
+C1250,High-Value Loyal
+C1251,At-Risk
+C1252,Regular
+C1253,Regular
+C1254,Price-Sensitive
+C1255,Regular
+C1256,High-Value Loyal
+C1257,Regular
+C1258,Occasional
+C1259,Price-Sensitive
+C1260,Regular
+C1261,At-Risk
+C1262,At-Risk
+C1263,Price-Sensitive
+C1264,Regular
+C1265,High-Value Loyal
+C1266,At-Risk
+C1267,Regular
+C1268,Occasional
+C1269,Price-Sensitive
+C1270,High-Value Loyal
+C1271,Price-Sensitive
+C1272,At-Risk
+C1273,Price-Sensitive
+C1274,Occasional
+C1275,At-Risk
+C1276,Occasional
+C1277,Price-Sensitive
+C1278,Price-Sensitive
+C1279,Price-Sensitive
+C1280,Regular
+C1281,High-Value Loyal
+C1282,Regular
+C1283,Occasional
+C1284,Occasional
+C1285,Occasional
+C1286,Regular
+C1287,Price-Sensitive
+C1288,At-Risk
+C1289,Regular
+C1290,Price-Sensitive
+C1291,Price-Sensitive
+C1292,Occasional
+C1293,Regular
+C1294,Price-Sensitive
+C1295,New
+C1296,Price-Sensitive
+C1297,At-Risk
+C1298,New
+C1299,Regular
+C1300,Occasional
+C1301,Occasional
+C1302,New
+C1303,High-Value Loyal
+C1304,Regular
+C1305,At-Risk
+C1306,Regular
+C1307,Price-Sensitive
+C1308,Regular
+C1309,New
+C1310,At-Risk
+C1311,Regular
+C1312,Price-Sensitive
+C1313,Regular
+C1314,Occasional
+C1315,Occasional
+C1316,Price-Sensitive
+C1317,High-Value Loyal
+C1318,Regular
+C1319,Price-Sensitive
+C1320,Occasional
+C1321,Occasional
+C1322,High-Value Loyal
+C1323,Regular
+C1324,At-Risk
+C1325,High-Value Loyal
+C1326,Regular
+C1327,At-Risk
+C1328,High-Value Loyal
+C1329,Price-Sensitive
+C1330,Regular
+C1331,At-Risk
+C1332,Price-Sensitive
+C1333,At-Risk
+C1334,Regular
+C1335,Occasional
+C1336,Price-Sensitive
+C1337,Regular
+C1338,Regular
+C1339,High-Value Loyal
+C1340,New
+C1341,Price-Sensitive
+C1342,Occasional
+C1343,Price-Sensitive
+C1344,Occasional
+C1345,Occasional
+C1346,Occasional
+C1347,Occasional
+C1348,Regular
+C1349,At-Risk
+C1350,Price-Sensitive
+C1351,Regular
+C1352,Occasional
+C1353,High-Value Loyal
+C1354,New
+C1355,At-Risk
+C1356,At-Risk
+C1357,Regular
+C1358,Regular
+C1359,Regular
+C1360,High-Value Loyal
+C1361,High-Value Loyal
+C1362,High-Value Loyal
+C1363,New
+C1364,High-Value Loyal
+C1365,High-Value Loyal
+C1366,Price-Sensitive
+C1367,Occasional
+C1368,Price-Sensitive
+C1369,Occasional
+C1370,At-Risk
+C1371,Occasional
+C1372,Occasional
+C1373,Price-Sensitive
+C1374,Occasional
+C1375,Regular
+C1376,Occasional
+C1377,Regular
+C1378,Price-Sensitive
+C1379,Regular
+C1380,High-Value Loyal
+C1381,Regular
+C1382,Price-Sensitive
+C1383,Regular
+C1384,Price-Sensitive
+C1385,At-Risk
+C1386,High-Value Loyal
+C1387,Price-Sensitive
+C1388,Regular
+C1389,Regular
+C1390,Price-Sensitive
+C1391,At-Risk
+C1392,Regular
+C1393,Occasional
+C1394,Regular
+C1395,Occasional
+C1396,Occasional
+C1397,Occasional
+C1398,Occasional
+C1399,High-Value Loyal
+C1400,Price-Sensitive
+C1401,Price-Sensitive
+C1402,Price-Sensitive
+C1403,High-Value Loyal
+C1404,Occasional
+C1405,Regular
+C1406,High-Value Loyal
+C1407,Regular
+C1408,Occasional
+C1409,Price-Sensitive
+C1410,Regular
+C1411,Price-Sensitive
+C1412,Occasional
+C1413,Price-Sensitive
+C1414,Occasional
+C1415,Occasional
+C1416,Occasional
+C1417,At-Risk
+C1418,Occasional
+C1419,Occasional
+C1420,Occasional
+C1421,Price-Sensitive
+C1422,High-Value Loyal
+C1423,Occasional
+C1424,Occasional
+C1425,At-Risk
+C1426,Occasional
+C1427,Occasional
+C1428,New
+C1429,Occasional
+C1430,Regular
+C1431,Regular
+C1432,High-Value Loyal
+C1433,High-Value Loyal
+C1434,Regular
+C1435,Price-Sensitive
+C1436,Price-Sensitive
+C1437,High-Value Loyal
+C1438,Occasional
+C1439,High-Value Loyal
+C1440,At-Risk
+C1441,Regular
+C1442,Occasional
+C1443,Regular
+C1444,Occasional
+C1445,Regular
+C1446,Price-Sensitive
+C1447,Regular
+C1448,At-Risk
+C1449,Occasional
+C1450,Price-Sensitive
+C1451,Price-Sensitive
+C1452,New
+C1453,Regular
+C1454,Regular
+C1455,Regular
+C1456,Regular
+C1457,Occasional
+C1458,New
+C1459,New
+C1460,Occasional
+C1461,Occasional
+C1462,At-Risk
+C1463,At-Risk
+C1464,Regular
+C1465,Occasional
+C1466,Price-Sensitive
+C1467,Regular
+C1468,Regular
+C1469,New
+C1470,New
+C1471,At-Risk
+C1472,Price-Sensitive
+C1473,Regular
+C1474,Regular
+C1475,Occasional
+C1476,Occasional
+C1477,Occasional
+C1478,Occasional
+C1479,Regular
+C1480,Price-Sensitive
+C1481,Regular
+C1482,Regular
+C1483,High-Value Loyal
+C1484,Regular
+C1485,At-Risk
+C1486,Occasional
+C1487,Regular
+C1488,Price-Sensitive
+C1489,Occasional
+C1490,High-Value Loyal
+C1491,Regular
+C1492,Regular
+C1493,Occasional
+C1494,Regular
+C1495,High-Value Loyal
+C1496,High-Value Loyal
+C1497,Occasional
+C1498,High-Value Loyal
+C1499,Price-Sensitive
+C1500,High-Value Loyal

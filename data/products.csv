@@ -1,0 +1,101 @@
+product_id,product_name,category,sub_category,brand,unit_price,profit_margin,discount_ceiling
+P001001,Basmati Rice 5kg,Groceries,Staples,Fortune,526.34,0.064,0
+P001002,Sunflower Cooking Oil 1L,Groceries,Staples,Tata,149.35,0.1335,0
+P001003,Sugar 1kg,Groceries,Staples,Dhampure,44.25,0.05,0
+P001004,Whole Wheat Flour 5kg,Groceries,Staples,Aashirvaad,286.46,0.0921,5
+P001005,Toor Dal 1kg,Groceries,Pulses,Tata,164.89,0.0987,0
+P001006,Chana Dal 1kg,Groceries,Pulses,Tata,136.64,0.1394,5
+P001007,Urad Dal 1kg,Groceries,Pulses,Aashirvaad,148.39,0.1582,5
+P001008,Red Lentils 1kg,Groceries,Pulses,Fortune,120.21,0.0985,5
+P001009,Table Salt 1kg,Groceries,Spices,Tata,28.41,0.196,0
+P001010,Turmeric Powder 500g,Groceries,Spices,Aashirvaad,91.09,0.1988,10
+P001011,Red Chilli Powder 200g,Groceries,Spices,Tata,71.47,0.193,5
+P001012,Garam Masala 100g,Groceries,Spices,Everest,99.65,0.2461,5
+P002001,Potato Chips 100g,Snacks & Beverages,Namkeen,Lay's,44.23,0.2912,0
+P002002,Salted Peanuts 200g,Snacks & Beverages,Namkeen,Haldiram's,66.38,0.2691,0
+P002003,Digestive Biscuits 400g,Snacks & Beverages,Biscuits,Parle-G,91.49,0.2308,10
+P002004,Marie Gold Biscuits 500g,Snacks & Beverages,Biscuits,Britannia,124.85,0.1898,0
+P002005,Instant Noodles 70g,Snacks & Beverages,Noodles,Maggi,33.3,0.2597,0
+P002006,Orange Juice 1L,Snacks & Beverages,Beverages,Real,122.96,0.2682,5
+P002007,Green Tea Bags 25ct,Snacks & Beverages,Beverages,Tata Tea,209.04,0.299,5
+P002008,Instant Coffee 500g,Snacks & Beverages,Beverages,Nescafe,618.89,0.1963,10
+P002009,Cola Soft Drink 750ml,Snacks & Beverages,Beverages,Coca-Cola,46.34,0.2736,0
+P002010,Energy Drink 250ml,Snacks & Beverages,Beverages,Red Bull,102.2,0.2458,10
+P003001,Herbal Shampoo 340ml,Personal Care,Hair Care,Himalaya,246.14,0.3255,0
+P003002,Anti-Dandruff Shampoo 360ml,Personal Care,Hair Care,Head & Shoulders,398.42,0.2856,5
+P003003,Coconut Hair Oil 500ml,Personal Care,Hair Care,Parachute,282.47,0.2617,5
+P003004,Body Wash 250ml,Personal Care,Bath Care,Dove,212.43,0.3158,0
+P003005,Beauty Soap 4x125g,Personal Care,Bath Care,Lifebuoy,136.55,0.232,0
+P003006,Bamboo Toothpaste 150g,Personal Care,Oral Care,Colgate,93.21,0.284,0
+P003007,Toothbrush Twin Pack,Personal Care,Oral Care,Oral-B,207.69,0.3774,10
+P003008,Sandal Deodorant 150ml,Personal Care,Personal Care,Godrej,226.86,0.3542,5
+P004001,Sandal Face Wash 100g,Beauty & Cosmetics,Skin Care,Clean & Clear,135.24,0.3516,0
+P004002,Vitamin C Face Serum 30ml,Beauty & Cosmetics,Skin Care,Minimalist,401.6,0.4647,5
+P004003,Sunscreen SPF50 50ml,Beauty & Cosmetics,Skin Care,Replika,560.5,0.4598,0
+P004004,Matte Lipstick 4.5g,Beauty & Cosmetics,Makeup,Maybelline,284.97,0.4684,10
+P004005,Waterproof Eyeliner 3.5g,Beauty & Cosmetics,Makeup,Maybelline,336.15,0.4952,0
+P004006,Compact Foundation 30g,Beauty & Cosmetics,Makeup,Lakme,517.19,0.4117,15
+P004007,Rose Water Toner 250ml,Beauty & Cosmetics,Skin Care,Minimalist,384.33,0.4324,0
+P004008,Hair Spa Mask 200g,Beauty & Cosmetics,Hair Care,Tresemme,427.42,0.4173,15
+P005001,Baby Diapers Small (M),Baby Care,Diapers,Pampers,830.56,0.224,10
+P005002,Baby Diapers Large (L),Baby Care,Diapers,Pampers,968.65,0.2123,5
+P005003,Baby Wipes Wet Wipes (Pack),Baby Care,Wipes,Johnson & Johnson,168.01,0.3235,10
+P005004,Baby Lotion 200ml,Baby Care,Skin Care,Johnson & Johnson,280.86,0.3705,10
+P005005,Baby Shampoo 200ml,Baby Care,Bath Care,Johnson & Johnson,233.28,0.3722,15
+P005006,Baby Powder 200g,Baby Care,Skin Care,Johnson's Baby,161.9,0.3303,0
+P005007,Baby Feeding Bottle 250ml,Baby Care,Feeding,Pigeon,392.4,0.3112,5
+P005008,Baby Pacifier (Pack of 2),Baby Care,Feeding,Chicco,333.65,0.3475,0
+P006001,Stainless Steel Cookware Set,Home & Kitchen,Cookware,Prestige,2408.52,0.238,5
+P006002,Non-stick Tawa 28cm,Home & Kitchen,Cookware,Prestige,918.52,0.2238,0
+P006003,Pressure Cooker 5L,Home & Kitchen,Cookware,Hawkins,2320.38,0.1951,5
+P006004,Mixer Grinder 750W,Home & Kitchen,Appliances,Butterfly,3301.97,0.1774,5
+P006005,Electric Kettle 1.5L,Home & Kitchen,Appliances,Butterfly,1226.17,0.2625,5
+P006006,Gas Stove 2 Burner,Home & Kitchen,Appliances,Indane,2213.01,0.2284,5
+P006007,Cotton Bedsheet Set,Home & Kitchen,Home Textiles,Bombay Dyeing,1246.64,0.3149,10
+P006008,Microfibre Cleaning Cloth (3pc),Home & Kitchen,Home Care,Scotch-Brite,235.69,0.2915,10
+P007001,Dishwash Liquid 750ml,Household Cleaning,Dishwash,Vim,170.55,0.2168,0
+P007002,Laundry Detergent 2kg,Household Cleaning,Laundry,Surf Excel,656.21,0.2059,5
+P007003,Floor Cleaner 1L,Household Cleaning,Floor Care,Lizol,239.18,0.2438,0
+P007004,Toilet Cleaner 500ml,Household Cleaning,Bathroom,Harpic,185.53,0.3068,10
+P007005,Glass Cleaner 500ml,Household Cleaning,Surface,Duzz,146.35,0.3005,0
+P007006,Hand Wash Refill 1L,Household Cleaning,Hand Care,Dettol,281.98,0.294,0
+P007007,Mosquito Repellent Refill,Household Cleaning,Repellents,All Out,139.06,0.3645,10
+P007008,Garbage Bags Medium (30pc),Household Cleaning,Disposal,Goodline,211.85,0.314,0
+P008001,Men Cotton T-Shirt,Clothing,Apparel,Levi's,666.55,0.4289,10
+P008002,Women Printed Kurta,Clothing,Apparel,Biba,1317.87,0.4103,5
+P008003,Kids Cotton Shorts,Clothing,Kids Wear,Gini & Jony,414.12,0.4268,0
+P008004,Denim Jeans Regular Fit,Clothing,Apparel,Lee Cooper,1816.23,0.3656,10
+P008005,Winter Sweater,Clothing,Apparel,Allen Solly,2302.04,0.4144,10
+P008006,Saree Cotton Blend,Clothing,Ethnic Wear,Biba,2305.86,0.4046,0
+P008007,Leather Formal Shoes,Clothing,Footwear,Woodland,4298.23,0.381,5
+P009001,Sports Running Shoes,Footwear,Sports,Nike,3504.18,0.4528,0
+P009002,Casual Sneakers,Footwear,Casual,Puma,2180.56,0.3753,0
+P009003,Leather Formal Shoes,Footwear,Formal,Woodland,3882.98,0.3667,0
+P009004,Women's Block Heel Sandals,Footwear,Casual,Bata,1785.0,0.4096,15
+P009005,Flip Flops Slippers,Footwear,Casual,Bata,434.1,0.4365,5
+P009006,Kids Sandals,Footwear,Kids,Bata,881.03,0.4339,5
+P009007,Ankle Socks (Pack of 3),Footwear,Accessories,Puma,342.81,0.4541,10
+P010001,Wired Earphones 3.5mm,Electronics,Audio,boAt,601.79,0.4078,5
+P010002,Bluetooth Earbuds,Electronics,Audio,OnePlus,2489.63,0.3842,15
+P010003,Power Bank 10000mAh,Electronics,Accessories,Mi,1251.49,0.3446,10
+P010004,USB-C Fast Charging Cable,Electronics,Accessories,AmazonBasics,338.11,0.4104,5
+P010005,Portable Bluetooth Speaker,Electronics,Audio,JBL,3119.73,0.2819,5
+P010006,Smart Watch AMOLED,Electronics,Wearables,Fire-Boltt,2436.14,0.3195,15
+P010007,LED Desk Lamp,Electronics,Home Tech,Philips,1286.76,0.3574,10
+P010008,AA Rechargeable Batteries (4pc),Electronics,Power,Duracell,876.49,0.4096,15
+P011001,A4 Notebook 200 Pages,Stationery,Notebooks,ClassMate,144.09,0.299,0
+P011002,Gel Pen Blue (Pack of 10),Stationery,Writing,Cello,204.5,0.3512,10
+P011003,School Exercise Book (5pc),Stationery,Notebooks,Navneet,162.0,0.2494,5
+P011004,Sticky Notes Assorted,Stationery,Office,Post-it,232.48,0.3643,0
+P011005,Exam Pen Set (10pc),Stationery,Writing,Cello,154.16,0.344,5
+P011006,Art Colour Box 12pc,Stationery,Art Supplies,Camlin,383.17,0.3271,5
+P011007,Stapler Heavy Duty,Stationery,Office,Kangaro,678.69,0.3055,0
+P011008,Geometry Box Complete,Stationery,Maths,Apsara,191.79,0.3277,5
+P012001,Multivitamin Tablets (60ct),Health & Wellness,Supplements,Centrum,656.06,0.3784,10
+P012002,Vitamin D3 Capsules (30ct),Health & Wellness,Supplements,Dr. Best,448.26,0.3294,10
+P012003,Protein Powder Chocolate 500g,Health & Wellness,Nutrition,Muscle Blaze,2122.14,0.3413,5
+P012004,Hand Sanitizer 500ml,Health & Wellness,Hygiene,Purell,261.89,0.3155,5
+P012005,Face Mask Sheet (Pack of 5),Health & Wellness,Personal Care,Glow & Lovely,221.55,0.4365,5
+P012006,Digital Thermometer,Health & Wellness,Devices,Omron,807.58,0.3176,0
+P012007,First Aid Kit Compact,Health & Wellness,Devices,Horizon,559.02,0.3101,5
+P012008,Herbal Tea Bags 25ct,Health & Wellness,Wellness,Patanjali,164.97,0.2959,5

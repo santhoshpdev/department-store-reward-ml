@@ -1,0 +1,1501 @@
+customer_id,age,gender,city,customer_since,customer_persona
+C0001,19,Male,Salem,2025-11-24,New
+C0002,23,Male,Coimbatore,2025-01-01,At-Risk
+C0003,22,Female,Chennai,2025-01-01,Regular
+C0004,40,Female,Coimbatore,2025-02-21,Price-Sensitive
+C0005,50,Female,Erode,2025-01-01,High-Value Loyal
+C0006,46,Male,Salem,2025-11-12,New
+C0007,38,Male,Salem,2025-01-01,Price-Sensitive
+C0008,40,Male,Salem,2025-01-01,Occasional
+C0009,50,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0010,18,Female,Chennai,2025-01-01,At-Risk
+C0011,38,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0012,46,Female,Salem,2025-01-01,Regular
+C0013,43,Male,Chennai,2025-01-01,High-Value Loyal
+C0014,38,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0015,57,Male,Tiruppur,2025-01-27,Regular
+C0016,32,Female,Chennai,2025-01-01,At-Risk
+C0017,25,Male,Chennai,2025-01-01,Occasional
+C0018,32,Male,Madurai,2025-01-01,High-Value Loyal
+C0019,53,Female,Chennai,2025-01-01,High-Value Loyal
+C0020,44,Male,Chennai,2025-01-01,High-Value Loyal
+C0021,27,Female,Coimbatore,2025-01-01,Occasional
+C0022,48,Male,Salem,2025-01-01,Price-Sensitive
+C0023,59,Male,Chennai,2025-01-01,Regular
+C0024,35,Male,Bangalore,2025-01-07,Price-Sensitive
+C0025,39,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0026,52,Male,Madurai,2025-01-01,Price-Sensitive
+C0027,31,Male,Chennai,2025-01-01,At-Risk
+C0028,26,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0029,18,Male,Karur,2025-01-01,Price-Sensitive
+C0030,52,Female,Bangalore,2025-01-01,Price-Sensitive
+C0031,54,Female,Erode,2025-01-01,High-Value Loyal
+C0032,42,Female,Karur,2025-01-01,Regular
+C0033,31,Female,Chennai,2025-01-01,High-Value Loyal
+C0034,54,Female,Coimbatore,2025-01-01,Occasional
+C0035,31,Male,Coimbatore,2025-05-14,Price-Sensitive
+C0036,42,Male,Tiruppur,2025-03-16,Occasional
+C0037,30,Male,Coimbatore,2025-01-01,At-Risk
+C0038,20,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0039,41,Female,Erode,2025-01-01,Price-Sensitive
+C0040,59,Male,Tiruppur,2025-01-01,Regular
+C0041,35,Male,Salem,2025-01-01,Regular
+C0042,41,Female,Bangalore,2025-01-01,Price-Sensitive
+C0043,25,Male,Salem,2025-09-11,New
+C0044,18,Female,Madurai,2025-01-01,Occasional
+C0045,48,Female,Karur,2025-01-01,High-Value Loyal
+C0046,18,Female,Tiruppur,2025-01-01,Occasional
+C0047,40,Female,Bangalore,2025-01-01,High-Value Loyal
+C0048,33,Male,Bangalore,2025-01-01,At-Risk
+C0049,48,Male,Salem,2025-01-01,Price-Sensitive
+C0050,48,Female,Coimbatore,2025-01-01,Regular
+C0051,41,Female,Erode,2025-01-01,High-Value Loyal
+C0052,44,Male,Karur,2025-01-01,Regular
+C0053,35,Female,Chennai,2025-10-02,New
+C0054,46,Female,Salem,2025-01-01,Occasional
+C0055,52,Female,Erode,2025-01-01,Price-Sensitive
+C0056,52,Female,Madurai,2025-01-01,Occasional
+C0057,27,Male,Coimbatore,2025-01-01,Occasional
+C0058,56,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0059,38,Male,Coimbatore,2025-01-01,At-Risk
+C0060,28,Female,Tiruppur,2025-01-01,Regular
+C0061,26,Female,Madurai,2025-01-01,Occasional
+C0062,20,Female,Erode,2025-01-01,Price-Sensitive
+C0063,45,Male,Madurai,2025-04-03,Occasional
+C0064,45,Female,Tiruppur,2025-01-01,At-Risk
+C0065,34,Male,Bangalore,2025-01-01,High-Value Loyal
+C0066,41,Female,Chennai,2025-01-01,Occasional
+C0067,18,Female,Karur,2025-01-01,Regular
+C0068,46,Male,Coimbatore,2025-01-01,Occasional
+C0069,61,Male,Madurai,2025-01-01,High-Value Loyal
+C0070,42,Male,Bangalore,2025-01-01,High-Value Loyal
+C0071,36,Female,Tiruppur,2025-03-13,Regular
+C0072,42,Female,Coimbatore,2025-01-01,Regular
+C0073,54,Male,Bangalore,2025-01-01,Regular
+C0074,43,Female,Karur,2025-01-01,Occasional
+C0075,43,Male,Karur,2025-01-01,Occasional
+C0076,42,Male,Erode,2025-01-01,Regular
+C0077,44,Female,Erode,2025-01-01,Regular
+C0078,18,Male,Coimbatore,2025-01-01,Regular
+C0079,23,Male,Chennai,2025-01-01,Occasional
+C0080,32,Male,Coimbatore,2025-01-01,Regular
+C0081,30,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0082,33,Male,Coimbatore,2025-01-01,Regular
+C0083,75,Male,Tiruppur,2025-01-01,Occasional
+C0084,26,Female,Chennai,2025-01-01,Regular
+C0085,32,Female,Chennai,2025-01-01,Occasional
+C0086,35,Male,Erode,2025-01-20,Occasional
+C0087,18,Female,Chennai,2025-01-01,Price-Sensitive
+C0088,29,Female,Chennai,2025-04-16,Occasional
+C0089,42,Female,Erode,2025-01-01,Occasional
+C0090,41,Male,Coimbatore,2025-01-01,Regular
+C0091,18,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0092,54,Female,Tiruppur,2025-01-01,Occasional
+C0093,48,Male,Salem,2025-01-01,Regular
+C0094,38,Female,Bangalore,2025-01-01,Occasional
+C0095,24,Male,Coimbatore,2025-01-01,Regular
+C0096,55,Female,Coimbatore,2025-01-01,Occasional
+C0097,21,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0098,42,Male,Salem,2025-01-01,At-Risk
+C0099,44,Female,Coimbatore,2025-01-01,At-Risk
+C0100,30,Female,Erode,2025-01-01,Occasional
+C0101,45,Female,Erode,2025-01-01,Occasional
+C0102,25,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0103,57,Female,Coimbatore,2025-01-01,Regular
+C0104,38,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0105,22,Female,Bangalore,2025-01-01,Occasional
+C0106,18,Male,Chennai,2025-01-01,High-Value Loyal
+C0107,39,Female,Chennai,2025-01-01,High-Value Loyal
+C0108,46,Female,Karur,2025-01-01,Price-Sensitive
+C0109,41,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0110,48,Male,Chennai,2025-03-03,Regular
+C0111,26,Male,Bangalore,2025-01-01,Regular
+C0112,38,Male,Karur,2025-01-01,Regular
+C0113,30,Female,Bangalore,2025-01-01,Regular
+C0114,31,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0115,45,Male,Salem,2025-01-01,High-Value Loyal
+C0116,29,Female,Chennai,2025-01-01,Price-Sensitive
+C0117,53,Male,Salem,2025-01-01,At-Risk
+C0118,45,Female,Bangalore,2025-01-01,Regular
+C0119,45,Male,Chennai,2025-01-01,High-Value Loyal
+C0120,23,Male,Salem,2025-01-01,Occasional
+C0121,28,Male,Salem,2025-01-01,High-Value Loyal
+C0122,56,Female,Madurai,2025-01-01,Regular
+C0123,60,Male,Erode,2025-10-22,New
+C0124,27,Female,Tiruppur,2025-11-19,New
+C0125,35,Female,Bangalore,2025-02-14,Price-Sensitive
+C0126,18,Female,Tiruppur,2025-01-01,Regular
+C0127,18,Female,Bangalore,2025-01-01,Price-Sensitive
+C0128,54,Female,Bangalore,2025-05-28,Price-Sensitive
+C0129,18,Female,Tiruppur,2025-01-01,Regular
+C0130,29,Female,Salem,2025-01-01,Occasional
+C0131,60,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0132,29,Female,Karur,2025-01-01,Regular
+C0133,18,Female,Coimbatore,2025-01-01,Occasional
+C0134,25,Female,Salem,2025-01-01,Regular
+C0135,40,Male,Bangalore,2025-01-01,Regular
+C0136,30,Female,Bangalore,2025-01-01,Price-Sensitive
+C0137,27,Female,Coimbatore,2025-10-09,New
+C0138,34,Female,Coimbatore,2025-01-01,Occasional
+C0139,19,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0140,32,Female,Erode,2025-09-26,New
+C0141,33,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0142,32,Female,Tiruppur,2025-01-01,Occasional
+C0143,30,Male,Coimbatore,2025-01-01,Regular
+C0144,55,Female,Bangalore,2025-01-01,High-Value Loyal
+C0145,28,Female,Madurai,2025-01-01,Price-Sensitive
+C0146,18,Female,Bangalore,2025-01-01,Regular
+C0147,19,Male,Chennai,2025-01-01,Occasional
+C0148,45,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0149,49,Female,Coimbatore,2025-01-01,Regular
+C0150,19,Female,Chennai,2025-01-01,At-Risk
+C0151,53,Female,Salem,2025-01-01,High-Value Loyal
+C0152,30,Female,Madurai,2025-01-01,Regular
+C0153,45,Female,Tiruppur,2025-03-19,Regular
+C0154,38,Female,Chennai,2025-01-25,Occasional
+C0155,26,Male,Tiruppur,2025-01-01,Occasional
+C0156,52,Female,Bangalore,2025-01-01,Occasional
+C0157,31,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0158,49,Female,Salem,2025-01-01,Regular
+C0159,39,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0160,29,Female,Chennai,2025-01-01,Occasional
+C0161,22,Male,Tiruppur,2025-01-01,Occasional
+C0162,47,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0163,18,Male,Madurai,2025-01-01,Price-Sensitive
+C0164,55,Female,Bangalore,2025-01-01,High-Value Loyal
+C0165,18,Female,Erode,2025-01-25,Regular
+C0166,41,Female,Karur,2025-01-01,Occasional
+C0167,19,Female,Coimbatore,2025-01-01,Regular
+C0168,18,Male,Madurai,2025-01-01,Price-Sensitive
+C0169,45,Male,Madurai,2025-01-01,Occasional
+C0170,38,Male,Bangalore,2025-01-01,Price-Sensitive
+C0171,28,Male,Chennai,2025-01-01,At-Risk
+C0172,59,Male,Erode,2025-04-08,Occasional
+C0173,28,Female,Salem,2025-01-01,At-Risk
+C0174,46,Male,Salem,2025-01-01,Occasional
+C0175,40,Female,Erode,2025-01-01,At-Risk
+C0176,18,Male,Madurai,2025-01-01,Regular
+C0177,53,Female,Salem,2025-01-01,Occasional
+C0178,31,Female,Bangalore,2025-01-01,Occasional
+C0179,43,Male,Madurai,2025-01-01,High-Value Loyal
+C0180,43,Male,Salem,2025-01-01,Regular
+C0181,43,Female,Erode,2025-01-01,At-Risk
+C0182,29,Male,Coimbatore,2025-01-01,Occasional
+C0183,47,Female,Salem,2025-01-01,Regular
+C0184,18,Female,Chennai,2025-01-01,Regular
+C0185,60,Male,Bangalore,2025-01-01,Regular
+C0186,33,Female,Chennai,2025-01-01,High-Value Loyal
+C0187,44,Male,Chennai,2025-01-01,At-Risk
+C0188,47,Male,Karur,2025-01-02,Occasional
+C0189,19,Female,Coimbatore,2025-01-01,Regular
+C0190,53,Male,Chennai,2025-01-01,Occasional
+C0191,43,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0192,61,Female,Madurai,2025-01-01,Regular
+C0193,49,Female,Bangalore,2025-01-01,Price-Sensitive
+C0194,46,Male,Tiruppur,2025-01-01,Occasional
+C0195,39,Male,Salem,2025-10-19,New
+C0196,18,Female,Chennai,2025-05-30,Occasional
+C0197,43,Male,Salem,2025-01-01,Occasional
+C0198,35,Male,Erode,2025-01-01,Price-Sensitive
+C0199,31,Male,Chennai,2025-01-01,At-Risk
+C0200,30,Female,Erode,2025-01-01,Price-Sensitive
+C0201,22,Female,Chennai,2025-11-02,New
+C0202,30,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0203,18,Male,Bangalore,2025-01-01,At-Risk
+C0204,46,Male,Erode,2025-01-01,High-Value Loyal
+C0205,51,Male,Erode,2025-01-01,Price-Sensitive
+C0206,32,Male,Tiruppur,2025-01-11,Occasional
+C0207,32,Female,Chennai,2025-05-13,Occasional
+C0208,36,Female,Bangalore,2025-01-01,Occasional
+C0209,33,Female,Coimbatore,2025-11-27,New
+C0210,38,Female,Chennai,2025-10-13,New
+C0211,33,Female,Madurai,2025-01-01,Regular
+C0212,21,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0213,58,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0214,41,Male,Madurai,2025-01-01,Regular
+C0215,27,Male,Madurai,2025-01-01,High-Value Loyal
+C0216,33,Female,Erode,2025-01-01,High-Value Loyal
+C0217,39,Male,Bangalore,2025-06-25,Price-Sensitive
+C0218,31,Female,Erode,2025-05-15,Occasional
+C0219,18,Female,Chennai,2025-11-11,New
+C0220,44,Male,Salem,2025-01-01,Occasional
+C0221,44,Male,Chennai,2025-10-29,New
+C0222,47,Female,Chennai,2025-01-01,Regular
+C0223,42,Male,Madurai,2025-01-08,Price-Sensitive
+C0224,27,Female,Chennai,2025-01-01,High-Value Loyal
+C0225,64,Male,Erode,2025-01-01,Occasional
+C0226,37,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0227,48,Female,Salem,2025-01-01,At-Risk
+C0228,46,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0229,37,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0230,44,Female,Coimbatore,2025-01-01,Regular
+C0231,44,Female,Salem,2025-01-01,High-Value Loyal
+C0232,34,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0233,24,Male,Coimbatore,2025-03-09,Price-Sensitive
+C0234,68,Female,Coimbatore,2025-06-09,Price-Sensitive
+C0235,33,Female,Salem,2025-01-01,Price-Sensitive
+C0236,32,Female,Erode,2025-01-01,At-Risk
+C0237,52,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0238,22,Male,Bangalore,2025-01-01,Price-Sensitive
+C0239,51,Female,Chennai,2025-01-01,High-Value Loyal
+C0240,44,Male,Chennai,2025-01-01,Regular
+C0241,28,Male,Bangalore,2025-01-01,Occasional
+C0242,59,Female,Coimbatore,2025-01-01,At-Risk
+C0243,34,Male,Chennai,2025-01-01,High-Value Loyal
+C0244,29,Female,Bangalore,2025-01-01,Occasional
+C0245,41,Female,Bangalore,2025-06-16,Price-Sensitive
+C0246,46,Male,Chennai,2025-01-01,High-Value Loyal
+C0247,35,Male,Coimbatore,2025-01-01,Regular
+C0248,51,Male,Erode,2025-01-01,At-Risk
+C0249,49,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0250,49,Female,Chennai,2025-01-01,Regular
+C0251,47,Female,Salem,2025-01-01,At-Risk
+C0252,40,Female,Salem,2025-01-01,Regular
+C0253,46,Female,Erode,2025-01-01,At-Risk
+C0254,18,Male,Chennai,2025-01-01,Regular
+C0255,51,Male,Tiruppur,2025-01-01,Occasional
+C0256,37,Female,Coimbatore,2025-01-01,Regular
+C0257,31,Male,Coimbatore,2025-01-01,Regular
+C0258,50,Female,Coimbatore,2025-01-01,At-Risk
+C0259,52,Male,Coimbatore,2025-01-01,Regular
+C0260,62,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0261,63,Male,Karur,2025-01-01,Regular
+C0262,19,Male,Erode,2025-01-01,Price-Sensitive
+C0263,37,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0264,34,Male,Erode,2025-10-20,New
+C0265,50,Female,Coimbatore,2025-01-18,Regular
+C0266,30,Male,Tiruppur,2025-01-01,Regular
+C0267,27,Male,Karur,2025-01-01,High-Value Loyal
+C0268,49,Female,Coimbatore,2025-01-01,Occasional
+C0269,21,Female,Bangalore,2025-11-24,New
+C0270,53,Female,Salem,2025-04-14,Price-Sensitive
+C0271,18,Female,Coimbatore,2025-01-01,Occasional
+C0272,39,Male,Salem,2025-01-01,Regular
+C0273,47,Male,Chennai,2025-01-01,At-Risk
+C0274,27,Female,Madurai,2025-01-01,Occasional
+C0275,43,Female,Chennai,2025-01-01,High-Value Loyal
+C0276,32,Male,Coimbatore,2025-01-01,Regular
+C0277,51,Male,Bangalore,2025-01-01,High-Value Loyal
+C0278,22,Female,Bangalore,2025-01-01,Regular
+C0279,28,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0280,28,Male,Salem,2025-01-01,Occasional
+C0281,20,Female,Coimbatore,2025-01-01,Occasional
+C0282,46,Female,Tiruppur,2025-01-01,Regular
+C0283,40,Male,Chennai,2025-01-01,Regular
+C0284,34,Female,Coimbatore,2025-09-05,New
+C0285,33,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0286,37,Male,Coimbatore,2025-02-01,Occasional
+C0287,29,Male,Coimbatore,2025-01-01,Regular
+C0288,39,Male,Coimbatore,2025-01-01,At-Risk
+C0289,37,Male,Bangalore,2025-01-01,Regular
+C0290,18,Female,Bangalore,2025-01-01,Regular
+C0291,18,Female,Erode,2025-01-01,At-Risk
+C0292,39,Male,Chennai,2025-01-05,Occasional
+C0293,23,Female,Bangalore,2025-01-01,Price-Sensitive
+C0294,37,Male,Tiruppur,2025-01-01,Occasional
+C0295,31,Female,Coimbatore,2025-01-01,Occasional
+C0296,51,Male,Erode,2025-01-01,Regular
+C0297,58,Female,Chennai,2025-01-01,Regular
+C0298,32,Female,Erode,2025-01-01,Regular
+C0299,29,Male,Salem,2025-01-01,High-Value Loyal
+C0300,35,Female,Chennai,2025-01-01,At-Risk
+C0301,60,Male,Madurai,2025-01-01,Regular
+C0302,35,Female,Erode,2025-01-01,Occasional
+C0303,48,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0304,52,Male,Erode,2025-01-01,Price-Sensitive
+C0305,47,Male,Madurai,2025-01-01,Regular
+C0306,63,Female,Coimbatore,2025-01-01,Occasional
+C0307,25,Female,Coimbatore,2025-10-06,New
+C0308,50,Female,Salem,2025-01-01,Price-Sensitive
+C0309,60,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0310,56,Female,Salem,2025-01-01,At-Risk
+C0311,36,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0312,34,Male,Madurai,2025-01-01,Regular
+C0313,63,Male,Bangalore,2025-01-01,Occasional
+C0314,32,Female,Salem,2025-01-01,High-Value Loyal
+C0315,18,Male,Erode,2025-01-01,Occasional
+C0316,50,Male,Coimbatore,2025-08-31,New
+C0317,30,Male,Erode,2025-01-01,Occasional
+C0318,34,Female,Chennai,2025-01-01,Regular
+C0319,41,Male,Erode,2025-01-01,High-Value Loyal
+C0320,40,Male,Tiruppur,2025-10-26,New
+C0321,19,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0322,39,Female,Karur,2025-01-01,High-Value Loyal
+C0323,18,Female,Tiruppur,2025-01-01,Regular
+C0324,18,Female,Chennai,2025-01-01,High-Value Loyal
+C0325,71,Male,Bangalore,2025-01-01,Occasional
+C0326,48,Female,Coimbatore,2025-01-01,Occasional
+C0327,18,Female,Chennai,2025-01-01,Regular
+C0328,42,Male,Salem,2025-01-01,High-Value Loyal
+C0329,20,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0330,39,Female,Chennai,2025-01-01,Regular
+C0331,40,Female,Karur,2025-01-01,High-Value Loyal
+C0332,31,Female,Erode,2025-01-01,Price-Sensitive
+C0333,30,Male,Madurai,2025-01-01,Regular
+C0334,52,Female,Tiruppur,2025-01-01,Regular
+C0335,46,Female,Coimbatore,2025-01-01,Regular
+C0336,25,Male,Bangalore,2025-01-01,Regular
+C0337,25,Male,Bangalore,2025-01-01,High-Value Loyal
+C0338,51,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0339,36,Male,Salem,2025-01-01,At-Risk
+C0340,47,Female,Bangalore,2025-01-01,High-Value Loyal
+C0341,57,Female,Tiruppur,2025-01-01,Occasional
+C0342,18,Female,Tiruppur,2025-03-22,Occasional
+C0343,55,Male,Erode,2025-01-01,Regular
+C0344,36,Male,Tiruppur,2025-01-01,Regular
+C0345,42,Female,Chennai,2025-01-01,Price-Sensitive
+C0346,47,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0347,44,Female,Salem,2025-01-01,Regular
+C0348,19,Male,Coimbatore,2025-01-01,Regular
+C0349,57,Female,Chennai,2025-01-01,Regular
+C0350,33,Female,Karur,2025-01-01,Occasional
+C0351,44,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0352,33,Male,Erode,2025-01-01,Regular
+C0353,56,Female,Madurai,2025-01-01,Regular
+C0354,22,Female,Chennai,2025-01-01,At-Risk
+C0355,49,Female,Madurai,2025-01-01,High-Value Loyal
+C0356,51,Male,Chennai,2025-01-01,Occasional
+C0357,22,Female,Salem,2025-01-01,Price-Sensitive
+C0358,18,Female,Bangalore,2025-01-01,High-Value Loyal
+C0359,18,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0360,69,Male,Erode,2025-01-01,High-Value Loyal
+C0361,53,Male,Bangalore,2025-01-01,At-Risk
+C0362,45,Female,Bangalore,2025-01-01,High-Value Loyal
+C0363,51,Male,Coimbatore,2025-01-01,Regular
+C0364,25,Male,Bangalore,2025-01-01,High-Value Loyal
+C0365,40,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0366,51,Female,Chennai,2025-01-01,Occasional
+C0367,59,Female,Bangalore,2025-01-01,Regular
+C0368,30,Male,Erode,2025-01-01,Occasional
+C0369,40,Male,Coimbatore,2025-01-01,Occasional
+C0370,38,Male,Chennai,2025-01-01,Price-Sensitive
+C0371,31,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0372,40,Female,Coimbatore,2025-01-01,At-Risk
+C0373,44,Male,Coimbatore,2025-01-01,Occasional
+C0374,41,Female,Madurai,2025-01-01,Regular
+C0375,44,Male,Tiruppur,2025-01-01,Price-Sensitive
+C0376,18,Male,Chennai,2025-01-01,At-Risk
+C0377,26,Male,Madurai,2025-01-01,Regular
+C0378,54,Female,Chennai,2025-01-01,At-Risk
+C0379,42,Female,Madurai,2025-03-14,Occasional
+C0380,18,Female,Tiruppur,2025-01-01,Occasional
+C0381,42,Male,Coimbatore,2025-09-29,New
+C0382,47,Male,Salem,2025-01-01,Regular
+C0383,32,Female,Tiruppur,2025-02-07,Price-Sensitive
+C0384,51,Male,Coimbatore,2025-01-01,Regular
+C0385,45,Female,Salem,2025-05-19,Price-Sensitive
+C0386,30,Male,Chennai,2025-04-25,Occasional
+C0387,18,Male,Bangalore,2025-01-01,Regular
+C0388,48,Male,Madurai,2025-01-01,Regular
+C0389,28,Male,Tiruppur,2025-01-01,Regular
+C0390,21,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0391,22,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0392,20,Female,Coimbatore,2025-03-29,Regular
+C0393,41,Female,Madurai,2025-01-01,High-Value Loyal
+C0394,43,Male,Karur,2025-01-01,Regular
+C0395,30,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0396,35,Female,Bangalore,2025-04-26,Price-Sensitive
+C0397,33,Male,Chennai,2025-01-01,Price-Sensitive
+C0398,40,Male,Tiruppur,2025-01-23,Regular
+C0399,53,Female,Bangalore,2025-01-01,At-Risk
+C0400,46,Female,Coimbatore,2025-01-01,Occasional
+C0401,32,Female,Chennai,2025-01-01,High-Value Loyal
+C0402,56,Female,Madurai,2025-01-01,High-Value Loyal
+C0403,58,Female,Chennai,2025-03-15,Price-Sensitive
+C0404,18,Female,Madurai,2025-01-01,Regular
+C0405,18,Male,Tiruppur,2025-01-01,Occasional
+C0406,20,Female,Coimbatore,2025-11-22,New
+C0407,43,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0408,30,Male,Bangalore,2025-01-01,High-Value Loyal
+C0409,39,Female,Salem,2025-09-02,New
+C0410,64,Female,Madurai,2025-01-01,Occasional
+C0411,34,Male,Salem,2025-01-01,High-Value Loyal
+C0412,34,Female,Bangalore,2025-01-01,At-Risk
+C0413,42,Female,Madurai,2025-01-01,At-Risk
+C0414,46,Female,Coimbatore,2025-01-01,Occasional
+C0415,30,Female,Bangalore,2025-01-17,Occasional
+C0416,60,Male,Coimbatore,2025-01-01,Regular
+C0417,37,Male,Erode,2025-01-01,High-Value Loyal
+C0418,46,Female,Bangalore,2025-01-01,Occasional
+C0419,28,Female,Coimbatore,2025-01-01,Regular
+C0420,18,Female,Salem,2025-01-01,Price-Sensitive
+C0421,25,Male,Salem,2025-01-01,Price-Sensitive
+C0422,41,Male,Bangalore,2025-01-01,High-Value Loyal
+C0423,47,Male,Coimbatore,2025-01-01,Occasional
+C0424,53,Male,Chennai,2025-01-01,Regular
+C0425,18,Female,Coimbatore,2025-01-01,At-Risk
+C0426,35,Male,Chennai,2025-01-01,Regular
+C0427,36,Female,Salem,2025-01-01,Occasional
+C0428,19,Female,Bangalore,2025-01-01,Occasional
+C0429,41,Male,Erode,2025-01-01,Regular
+C0430,19,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0431,42,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0432,38,Female,Coimbatore,2025-01-01,Occasional
+C0433,32,Male,Erode,2025-01-01,Price-Sensitive
+C0434,39,Female,Chennai,2025-11-13,New
+C0435,67,Female,Bangalore,2025-03-22,Regular
+C0436,31,Male,Coimbatore,2025-01-01,Occasional
+C0437,27,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0438,34,Male,Madurai,2025-01-01,Price-Sensitive
+C0439,42,Male,Erode,2025-01-01,Occasional
+C0440,38,Female,Madurai,2025-01-01,Regular
+C0441,34,Female,Salem,2025-01-01,High-Value Loyal
+C0442,42,Male,Chennai,2025-01-01,At-Risk
+C0443,61,Male,Coimbatore,2025-01-01,Regular
+C0444,43,Male,Bangalore,2025-06-27,Price-Sensitive
+C0445,69,Female,Bangalore,2025-01-01,High-Value Loyal
+C0446,34,Female,Chennai,2025-11-01,New
+C0447,53,Female,Bangalore,2025-01-01,Regular
+C0448,18,Male,Bangalore,2025-01-01,Regular
+C0449,35,Male,Coimbatore,2025-01-01,At-Risk
+C0450,42,Female,Tiruppur,2025-01-01,At-Risk
+C0451,59,Female,Bangalore,2025-01-01,Regular
+C0452,22,Female,Erode,2025-01-01,Occasional
+C0453,43,Female,Chennai,2025-01-01,Price-Sensitive
+C0454,52,Male,Salem,2025-01-01,At-Risk
+C0455,46,Male,Chennai,2025-01-01,Regular
+C0456,46,Female,Tiruppur,2025-01-01,Occasional
+C0457,35,Female,Chennai,2025-01-01,Price-Sensitive
+C0458,31,Male,Chennai,2025-01-01,Price-Sensitive
+C0459,46,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0460,23,Female,Coimbatore,2025-01-01,Occasional
+C0461,37,Female,Salem,2025-01-01,High-Value Loyal
+C0462,26,Female,Salem,2025-01-01,At-Risk
+C0463,48,Male,Erode,2025-01-01,At-Risk
+C0464,19,Male,Madurai,2025-01-01,Price-Sensitive
+C0465,26,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0466,54,Male,Tiruppur,2025-01-01,Regular
+C0467,31,Female,Salem,2025-01-01,Price-Sensitive
+C0468,33,Male,Erode,2025-01-01,High-Value Loyal
+C0469,28,Female,Bangalore,2025-11-05,New
+C0470,34,Female,Bangalore,2025-01-01,Regular
+C0471,47,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0472,37,Male,Bangalore,2025-01-01,At-Risk
+C0473,30,Female,Tiruppur,2025-01-01,Regular
+C0474,40,Female,Madurai,2025-01-01,Regular
+C0475,52,Female,Bangalore,2025-01-01,Occasional
+C0476,29,Female,Karur,2025-01-23,Occasional
+C0477,18,Male,Coimbatore,2025-01-01,Regular
+C0478,36,Female,Karur,2025-01-01,Occasional
+C0479,36,Female,Bangalore,2025-01-01,At-Risk
+C0480,18,Male,Erode,2025-01-01,Occasional
+C0481,42,Male,Coimbatore,2025-01-01,Regular
+C0482,18,Male,Coimbatore,2025-01-01,Regular
+C0483,22,Female,Chennai,2025-01-01,Regular
+C0484,59,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0485,25,Male,Coimbatore,2025-01-01,Regular
+C0486,32,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0487,58,Female,Erode,2025-01-01,Regular
+C0488,22,Female,Karur,2025-09-07,New
+C0489,32,Male,Coimbatore,2025-01-01,Regular
+C0490,35,Male,Salem,2025-01-01,High-Value Loyal
+C0491,37,Male,Erode,2025-01-01,Price-Sensitive
+C0492,38,Female,Chennai,2025-01-01,At-Risk
+C0493,23,Male,Salem,2025-01-01,Regular
+C0494,32,Female,Chennai,2025-01-01,Regular
+C0495,56,Male,Madurai,2025-01-01,Regular
+C0496,33,Female,Chennai,2025-01-01,Occasional
+C0497,29,Female,Chennai,2025-01-01,Occasional
+C0498,33,Female,Salem,2025-01-01,Regular
+C0499,51,Female,Erode,2025-01-01,High-Value Loyal
+C0500,51,Female,Bangalore,2025-01-01,Occasional
+C0501,23,Male,Tiruppur,2025-11-26,New
+C0502,23,Male,Coimbatore,2025-01-01,Occasional
+C0503,49,Male,Coimbatore,2025-05-15,Occasional
+C0504,48,Female,Erode,2025-01-01,High-Value Loyal
+C0505,57,Female,Bangalore,2025-01-01,Regular
+C0506,39,Female,Bangalore,2025-02-27,Regular
+C0507,34,Male,Tiruppur,2025-01-01,Price-Sensitive
+C0508,59,Female,Chennai,2025-01-01,At-Risk
+C0509,66,Male,Bangalore,2025-01-01,At-Risk
+C0510,18,Female,Chennai,2025-10-07,New
+C0511,43,Female,Coimbatore,2025-10-27,New
+C0512,27,Male,Chennai,2025-11-04,New
+C0513,58,Male,Madurai,2025-01-01,High-Value Loyal
+C0514,35,Male,Bangalore,2025-01-01,High-Value Loyal
+C0515,57,Male,Bangalore,2025-01-01,Regular
+C0516,35,Female,Coimbatore,2025-01-01,Occasional
+C0517,20,Female,Bangalore,2025-01-01,High-Value Loyal
+C0518,51,Female,Bangalore,2025-01-01,Price-Sensitive
+C0519,32,Male,Salem,2025-01-01,Occasional
+C0520,21,Female,Madurai,2025-01-18,Occasional
+C0521,18,Male,Coimbatore,2025-01-01,Regular
+C0522,32,Male,Karur,2025-01-01,Regular
+C0523,29,Female,Coimbatore,2025-01-01,Regular
+C0524,33,Male,Chennai,2025-01-01,At-Risk
+C0525,42,Female,Coimbatore,2025-01-01,Occasional
+C0526,35,Male,Bangalore,2025-05-29,Price-Sensitive
+C0527,32,Female,Coimbatore,2025-01-01,Regular
+C0528,35,Female,Salem,2025-01-01,Regular
+C0529,42,Female,Tiruppur,2025-01-01,Regular
+C0530,56,Female,Salem,2025-01-01,Price-Sensitive
+C0531,48,Male,Salem,2025-01-15,Price-Sensitive
+C0532,30,Female,Coimbatore,2025-01-01,Regular
+C0533,32,Female,Coimbatore,2025-01-01,At-Risk
+C0534,32,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0535,45,Female,Karur,2025-01-01,At-Risk
+C0536,26,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0537,29,Male,Bangalore,2025-01-01,Regular
+C0538,48,Female,Madurai,2025-01-01,Price-Sensitive
+C0539,54,Female,Chennai,2025-01-01,Regular
+C0540,52,Female,Bangalore,2025-01-01,Regular
+C0541,66,Female,Madurai,2025-01-01,Occasional
+C0542,29,Male,Tiruppur,2025-01-01,Regular
+C0543,45,Female,Salem,2025-01-01,Price-Sensitive
+C0544,48,Female,Chennai,2025-01-01,At-Risk
+C0545,26,Female,Tiruppur,2025-01-01,At-Risk
+C0546,41,Female,Salem,2025-01-08,Regular
+C0547,42,Female,Tiruppur,2025-01-01,Occasional
+C0548,20,Female,Tiruppur,2025-01-01,Regular
+C0549,21,Female,Madurai,2025-02-26,Regular
+C0550,18,Female,Karur,2025-01-01,Regular
+C0551,33,Female,Erode,2025-01-01,At-Risk
+C0552,34,Female,Chennai,2025-01-01,At-Risk
+C0553,38,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0554,35,Male,Tiruppur,2025-01-01,Occasional
+C0555,28,Male,Coimbatore,2025-01-01,Occasional
+C0556,24,Female,Coimbatore,2025-01-01,Occasional
+C0557,18,Male,Erode,2025-01-01,Occasional
+C0558,25,Female,Coimbatore,2025-01-01,Regular
+C0559,18,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0560,46,Male,Bangalore,2025-01-01,High-Value Loyal
+C0561,24,Female,Chennai,2025-11-11,New
+C0562,50,Female,Salem,2025-01-01,Occasional
+C0563,31,Female,Chennai,2025-11-07,New
+C0564,26,Male,Tiruppur,2025-01-01,Regular
+C0565,21,Male,Salem,2025-02-24,Occasional
+C0566,46,Male,Chennai,2025-01-01,Regular
+C0567,45,Female,Bangalore,2025-01-01,Regular
+C0568,27,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0569,35,Female,Madurai,2025-01-01,High-Value Loyal
+C0570,33,Male,Bangalore,2025-01-01,At-Risk
+C0571,46,Female,Madurai,2025-01-01,Regular
+C0572,49,Female,Coimbatore,2025-01-01,Occasional
+C0573,54,Male,Erode,2025-01-01,Occasional
+C0574,18,Female,Bangalore,2025-01-01,Regular
+C0575,62,Female,Tiruppur,2025-01-01,Occasional
+C0576,33,Female,Madurai,2025-01-01,Regular
+C0577,35,Female,Salem,2025-09-30,New
+C0578,33,Female,Madurai,2025-01-01,Price-Sensitive
+C0579,33,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0580,52,Male,Coimbatore,2025-01-01,Occasional
+C0581,41,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0582,18,Male,Salem,2025-01-01,At-Risk
+C0583,36,Female,Salem,2025-03-27,Regular
+C0584,28,Female,Erode,2025-01-01,High-Value Loyal
+C0585,52,Female,Coimbatore,2025-01-01,Regular
+C0586,41,Female,Salem,2025-02-20,Price-Sensitive
+C0587,18,Female,Tiruppur,2025-01-01,Occasional
+C0588,61,Male,Tiruppur,2025-01-01,Price-Sensitive
+C0589,52,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0590,41,Female,Salem,2025-01-01,Regular
+C0591,54,Female,Tiruppur,2025-01-01,At-Risk
+C0592,28,Female,Coimbatore,2025-01-01,Regular
+C0593,39,Female,Coimbatore,2025-01-01,Occasional
+C0594,18,Male,Chennai,2025-01-01,High-Value Loyal
+C0595,35,Male,Chennai,2025-11-21,New
+C0596,34,Female,Coimbatore,2025-01-01,Regular
+C0597,18,Female,Erode,2025-01-01,High-Value Loyal
+C0598,47,Male,Bangalore,2025-01-01,Occasional
+C0599,28,Male,Erode,2025-01-01,High-Value Loyal
+C0600,34,Male,Bangalore,2025-01-01,High-Value Loyal
+C0601,44,Male,Bangalore,2025-01-01,Occasional
+C0602,24,Male,Coimbatore,2025-01-06,Regular
+C0603,37,Female,Erode,2025-01-01,At-Risk
+C0604,30,Male,Bangalore,2025-01-01,Regular
+C0605,27,Male,Coimbatore,2025-04-29,Price-Sensitive
+C0606,41,Male,Tiruppur,2025-05-07,Occasional
+C0607,40,Male,Salem,2025-01-01,Occasional
+C0608,33,Female,Coimbatore,2025-01-01,Occasional
+C0609,40,Female,Salem,2025-01-01,Occasional
+C0610,33,Female,Tiruppur,2025-09-28,New
+C0611,62,Female,Erode,2025-01-01,Regular
+C0612,44,Female,Bangalore,2025-01-01,Regular
+C0613,62,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0614,31,Female,Tiruppur,2025-01-02,Price-Sensitive
+C0615,38,Female,Bangalore,2025-01-01,High-Value Loyal
+C0616,64,Male,Coimbatore,2025-01-09,Occasional
+C0617,29,Male,Salem,2025-01-01,At-Risk
+C0618,56,Female,Chennai,2025-01-01,Price-Sensitive
+C0619,41,Male,Tiruppur,2025-11-22,New
+C0620,32,Male,Chennai,2025-01-27,Occasional
+C0621,41,Male,Chennai,2025-01-01,Occasional
+C0622,44,Male,Coimbatore,2025-01-01,Regular
+C0623,48,Male,Salem,2025-01-01,At-Risk
+C0624,43,Male,Chennai,2025-01-01,Regular
+C0625,22,Female,Salem,2025-01-01,Price-Sensitive
+C0626,50,Male,Chennai,2025-01-01,Regular
+C0627,47,Male,Salem,2025-01-01,Occasional
+C0628,36,Male,Erode,2025-01-01,Price-Sensitive
+C0629,29,Female,Tiruppur,2025-01-01,Occasional
+C0630,31,Male,Chennai,2025-01-01,At-Risk
+C0631,34,Male,Chennai,2025-01-01,Regular
+C0632,51,Female,Chennai,2025-03-20,Occasional
+C0633,32,Female,Bangalore,2025-01-01,Regular
+C0634,36,Female,Coimbatore,2025-01-01,Regular
+C0635,51,Female,Salem,2025-01-01,Occasional
+C0636,58,Female,Madurai,2025-01-01,High-Value Loyal
+C0637,67,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0638,35,Female,Chennai,2025-06-05,Price-Sensitive
+C0639,28,Male,Tiruppur,2025-01-01,Occasional
+C0640,26,Female,Bangalore,2025-01-05,Price-Sensitive
+C0641,50,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0642,42,Female,Bangalore,2025-01-01,Regular
+C0643,24,Female,Bangalore,2025-01-01,Regular
+C0644,56,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0645,32,Male,Coimbatore,2025-01-01,At-Risk
+C0646,21,Female,Madurai,2025-01-01,Regular
+C0647,48,Male,Tiruppur,2025-01-01,Price-Sensitive
+C0648,54,Male,Bangalore,2025-01-01,High-Value Loyal
+C0649,54,Female,Salem,2025-01-01,Regular
+C0650,27,Female,Salem,2025-01-01,High-Value Loyal
+C0651,48,Male,Coimbatore,2025-01-01,Regular
+C0652,42,Female,Chennai,2025-01-02,Price-Sensitive
+C0653,31,Male,Tiruppur,2025-01-01,At-Risk
+C0654,50,Male,Chennai,2025-01-01,Regular
+C0655,38,Female,Madurai,2025-01-01,Occasional
+C0656,18,Female,Salem,2025-01-01,Price-Sensitive
+C0657,31,Male,Tiruppur,2025-10-25,New
+C0658,35,Female,Bangalore,2025-01-01,Occasional
+C0659,32,Female,Coimbatore,2025-01-01,Regular
+C0660,40,Male,Salem,2025-01-01,Occasional
+C0661,35,Male,Karur,2025-01-01,Regular
+C0662,38,Female,Chennai,2025-10-14,New
+C0663,21,Male,Erode,2025-01-01,Regular
+C0664,33,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0665,44,Male,Erode,2025-01-01,High-Value Loyal
+C0666,31,Female,Chennai,2025-01-01,Regular
+C0667,66,Male,Salem,2025-01-01,At-Risk
+C0668,33,Female,Coimbatore,2025-01-01,Occasional
+C0669,23,Female,Coimbatore,2025-01-01,Occasional
+C0670,46,Female,Coimbatore,2025-01-01,At-Risk
+C0671,44,Female,Chennai,2025-01-01,At-Risk
+C0672,42,Female,Erode,2025-01-01,Regular
+C0673,36,Male,Coimbatore,2025-01-01,Occasional
+C0674,18,Male,Madurai,2025-01-01,Occasional
+C0675,31,Female,Tiruppur,2025-01-01,Occasional
+C0676,32,Male,Chennai,2025-01-01,Regular
+C0677,27,Female,Tiruppur,2025-01-01,Regular
+C0678,51,Male,Madurai,2025-01-01,At-Risk
+C0679,31,Male,Salem,2025-01-01,At-Risk
+C0680,18,Male,Bangalore,2025-01-01,Price-Sensitive
+C0681,44,Male,Erode,2025-10-25,New
+C0682,24,Female,Erode,2025-01-01,Price-Sensitive
+C0683,32,Female,Chennai,2025-01-01,Price-Sensitive
+C0684,40,Female,Karur,2025-01-01,Price-Sensitive
+C0685,19,Female,Madurai,2025-01-01,Occasional
+C0686,20,Male,Bangalore,2025-01-01,Occasional
+C0687,28,Female,Tiruppur,2025-01-01,Regular
+C0688,54,Female,Chennai,2025-05-05,Occasional
+C0689,26,Female,Coimbatore,2025-01-01,Regular
+C0690,47,Female,Chennai,2025-01-01,Regular
+C0691,44,Female,Bangalore,2025-05-20,Occasional
+C0692,51,Female,Chennai,2025-01-01,Regular
+C0693,18,Female,Coimbatore,2025-01-01,Regular
+C0694,18,Female,Chennai,2025-01-01,Price-Sensitive
+C0695,29,Female,Salem,2025-01-01,At-Risk
+C0696,24,Female,Madurai,2025-02-21,Regular
+C0697,52,Female,Chennai,2025-01-01,High-Value Loyal
+C0698,28,Female,Erode,2025-01-01,Regular
+C0699,31,Female,Chennai,2025-01-01,Price-Sensitive
+C0700,28,Female,Tiruppur,2025-06-19,Price-Sensitive
+C0701,50,Male,Chennai,2025-01-01,High-Value Loyal
+C0702,47,Male,Salem,2025-01-01,Price-Sensitive
+C0703,33,Female,Salem,2025-01-01,High-Value Loyal
+C0704,26,Female,Bangalore,2025-01-01,Regular
+C0705,20,Female,Salem,2025-11-26,New
+C0706,43,Female,Coimbatore,2025-01-01,Regular
+C0707,67,Male,Salem,2025-01-01,High-Value Loyal
+C0708,44,Male,Coimbatore,2025-01-01,Regular
+C0709,44,Female,Coimbatore,2025-01-01,Occasional
+C0710,55,Female,Tiruppur,2025-01-01,At-Risk
+C0711,47,Female,Coimbatore,2025-09-25,New
+C0712,40,Female,Erode,2025-01-01,High-Value Loyal
+C0713,18,Female,Salem,2025-01-01,High-Value Loyal
+C0714,30,Female,Madurai,2025-01-01,Price-Sensitive
+C0715,48,Female,Bangalore,2025-01-01,Regular
+C0716,38,Female,Salem,2025-01-01,At-Risk
+C0717,37,Female,Bangalore,2025-01-01,Price-Sensitive
+C0718,32,Female,Salem,2025-01-01,High-Value Loyal
+C0719,44,Male,Tiruppur,2025-01-01,Price-Sensitive
+C0720,23,Female,Tiruppur,2025-01-01,Regular
+C0721,31,Female,Tiruppur,2025-01-01,Regular
+C0722,45,Male,Chennai,2025-01-01,Occasional
+C0723,39,Male,Coimbatore,2025-01-01,Occasional
+C0724,46,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0725,37,Female,Coimbatore,2025-01-01,Occasional
+C0726,23,Male,Madurai,2025-10-23,New
+C0727,45,Female,Chennai,2025-11-01,New
+C0728,41,Female,Coimbatore,2025-01-01,Occasional
+C0729,33,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0730,20,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0731,40,Female,Chennai,2025-09-23,New
+C0732,23,Female,Erode,2025-01-01,Regular
+C0733,26,Female,Coimbatore,2025-01-01,Occasional
+C0734,73,Male,Erode,2025-01-01,Regular
+C0735,45,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0736,53,Female,Erode,2025-06-02,Price-Sensitive
+C0737,20,Male,Erode,2025-01-01,Regular
+C0738,47,Male,Tiruppur,2025-01-01,Price-Sensitive
+C0739,43,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0740,40,Male,Madurai,2025-01-01,Price-Sensitive
+C0741,48,Male,Coimbatore,2025-01-01,Regular
+C0742,26,Male,Erode,2025-01-01,Regular
+C0743,32,Male,Coimbatore,2025-02-16,Price-Sensitive
+C0744,22,Male,Madurai,2025-06-19,Price-Sensitive
+C0745,41,Female,Karur,2025-01-01,Occasional
+C0746,18,Male,Bangalore,2025-01-01,At-Risk
+C0747,31,Male,Bangalore,2025-01-01,High-Value Loyal
+C0748,44,Female,Salem,2025-01-01,At-Risk
+C0749,26,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0750,51,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0751,34,Male,Coimbatore,2025-02-10,Occasional
+C0752,49,Male,Salem,2025-01-01,High-Value Loyal
+C0753,49,Female,Salem,2025-01-01,High-Value Loyal
+C0754,58,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0755,50,Female,Coimbatore,2025-01-01,Regular
+C0756,39,Female,Salem,2025-01-01,Price-Sensitive
+C0757,18,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0758,24,Female,Coimbatore,2025-01-01,Occasional
+C0759,61,Male,Chennai,2025-01-01,Price-Sensitive
+C0760,21,Male,Bangalore,2025-01-01,Regular
+C0761,23,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0762,40,Female,Erode,2025-01-01,At-Risk
+C0763,57,Male,Salem,2025-02-27,Price-Sensitive
+C0764,51,Male,Salem,2025-01-05,Occasional
+C0765,57,Female,Tiruppur,2025-02-10,Price-Sensitive
+C0766,18,Female,Erode,2025-01-01,High-Value Loyal
+C0767,18,Male,Erode,2025-01-01,Regular
+C0768,35,Female,Chennai,2025-01-01,Price-Sensitive
+C0769,40,Female,Bangalore,2025-01-01,Regular
+C0770,56,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0771,34,Female,Coimbatore,2025-01-01,Occasional
+C0772,37,Male,Erode,2025-01-01,Price-Sensitive
+C0773,50,Male,Chennai,2025-01-01,Occasional
+C0774,34,Female,Bangalore,2025-01-01,Regular
+C0775,30,Female,Coimbatore,2025-01-01,Regular
+C0776,40,Female,Tiruppur,2025-01-01,Regular
+C0777,60,Female,Bangalore,2025-04-06,Price-Sensitive
+C0778,18,Female,Bangalore,2025-01-01,High-Value Loyal
+C0779,48,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0780,35,Female,Bangalore,2025-01-01,Regular
+C0781,36,Male,Tiruppur,2025-01-01,Regular
+C0782,20,Male,Madurai,2025-01-01,Price-Sensitive
+C0783,51,Male,Karur,2025-01-01,Regular
+C0784,46,Male,Tiruppur,2025-11-09,New
+C0785,38,Male,Erode,2025-01-01,High-Value Loyal
+C0786,21,Male,Coimbatore,2025-01-01,Occasional
+C0787,49,Female,Coimbatore,2025-01-01,Occasional
+C0788,35,Female,Coimbatore,2025-01-04,Regular
+C0789,24,Male,Chennai,2025-01-01,At-Risk
+C0790,31,Male,Karur,2025-10-20,New
+C0791,37,Female,Chennai,2025-01-01,At-Risk
+C0792,60,Male,Tiruppur,2025-01-01,Regular
+C0793,20,Female,Madurai,2025-01-01,Regular
+C0794,62,Female,Erode,2025-01-01,Occasional
+C0795,36,Male,Chennai,2025-01-01,Regular
+C0796,18,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0797,29,Male,Erode,2025-02-15,Occasional
+C0798,21,Male,Coimbatore,2025-01-01,Occasional
+C0799,44,Male,Tiruppur,2025-01-01,Price-Sensitive
+C0800,49,Female,Bangalore,2025-06-02,Price-Sensitive
+C0801,37,Female,Chennai,2025-01-01,High-Value Loyal
+C0802,48,Male,Karur,2025-01-01,High-Value Loyal
+C0803,40,Female,Bangalore,2025-01-01,Occasional
+C0804,49,Female,Coimbatore,2025-01-01,Occasional
+C0805,34,Male,Chennai,2025-01-01,Regular
+C0806,41,Female,Erode,2025-01-01,Regular
+C0807,37,Male,Chennai,2025-01-01,Price-Sensitive
+C0808,55,Female,Coimbatore,2025-01-01,Price-Sensitive
+C0809,40,Female,Coimbatore,2025-04-18,Occasional
+C0810,46,Male,Madurai,2025-01-01,Regular
+C0811,53,Female,Salem,2025-01-01,Regular
+C0812,44,Female,Erode,2025-01-01,Occasional
+C0813,49,Male,Coimbatore,2025-01-01,Regular
+C0814,30,Male,Erode,2025-04-08,Occasional
+C0815,51,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0816,51,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0817,46,Female,Coimbatore,2025-01-01,High-Value Loyal
+C0818,18,Male,Madurai,2025-01-01,Regular
+C0819,55,Male,Salem,2025-01-01,At-Risk
+C0820,18,Male,Bangalore,2025-01-17,Occasional
+C0821,27,Male,Erode,2025-01-01,Regular
+C0822,25,Male,Salem,2025-01-01,At-Risk
+C0823,45,Male,Bangalore,2025-05-21,Occasional
+C0824,44,Female,Tiruppur,2025-01-18,Occasional
+C0825,32,Male,Bangalore,2025-01-01,At-Risk
+C0826,52,Male,Chennai,2025-01-01,High-Value Loyal
+C0827,47,Female,Coimbatore,2025-01-01,Regular
+C0828,48,Female,Madurai,2025-01-01,Occasional
+C0829,42,Male,Chennai,2025-01-01,Regular
+C0830,33,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0831,56,Male,Coimbatore,2025-01-01,Regular
+C0832,33,Female,Salem,2025-01-01,High-Value Loyal
+C0833,44,Male,Bangalore,2025-01-01,Regular
+C0834,30,Male,Tiruppur,2025-01-01,Regular
+C0835,35,Male,Madurai,2025-01-01,Regular
+C0836,25,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0837,20,Male,Madurai,2025-01-01,At-Risk
+C0838,42,Female,Chennai,2025-01-01,Regular
+C0839,36,Male,Salem,2025-02-12,Regular
+C0840,27,Female,Karur,2025-01-01,High-Value Loyal
+C0841,21,Female,Chennai,2025-01-01,Regular
+C0842,27,Male,Tiruppur,2025-01-01,Regular
+C0843,55,Male,Karur,2025-01-01,Occasional
+C0844,44,Male,Bangalore,2025-01-01,Regular
+C0845,34,Female,Coimbatore,2025-01-01,At-Risk
+C0846,31,Female,Chennai,2025-01-01,At-Risk
+C0847,27,Female,Salem,2025-01-01,High-Value Loyal
+C0848,36,Female,Salem,2025-01-01,High-Value Loyal
+C0849,37,Male,Salem,2025-01-01,High-Value Loyal
+C0850,18,Female,Bangalore,2025-01-01,Occasional
+C0851,23,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0852,49,Male,Chennai,2025-01-01,At-Risk
+C0853,48,Female,Chennai,2025-01-01,Price-Sensitive
+C0854,31,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0855,55,Male,Salem,2025-01-01,Occasional
+C0856,56,Male,Tiruppur,2025-10-23,New
+C0857,28,Male,Salem,2025-01-01,High-Value Loyal
+C0858,28,Male,Coimbatore,2025-01-01,Regular
+C0859,46,Male,Bangalore,2025-01-01,Regular
+C0860,57,Male,Coimbatore,2025-01-01,At-Risk
+C0861,24,Female,Bangalore,2025-03-25,Occasional
+C0862,28,Male,Coimbatore,2025-02-19,Price-Sensitive
+C0863,33,Male,Tiruppur,2025-03-26,Regular
+C0864,53,Female,Chennai,2025-09-13,New
+C0865,49,Female,Coimbatore,2025-01-01,Occasional
+C0866,48,Female,Salem,2025-01-01,Occasional
+C0867,58,Male,Salem,2025-09-06,New
+C0868,44,Female,Chennai,2025-03-16,Regular
+C0869,40,Female,Tiruppur,2025-01-01,Regular
+C0870,40,Female,Madurai,2025-01-01,Occasional
+C0871,47,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0872,18,Male,Tiruppur,2025-01-01,Regular
+C0873,61,Female,Salem,2025-01-01,Regular
+C0874,26,Female,Chennai,2025-01-01,High-Value Loyal
+C0875,47,Male,Coimbatore,2025-01-01,At-Risk
+C0876,23,Female,Karur,2025-03-27,Occasional
+C0877,50,Male,Chennai,2025-01-01,Regular
+C0878,18,Male,Tiruppur,2025-01-01,Regular
+C0879,51,Male,Tiruppur,2025-01-01,Regular
+C0880,22,Female,Madurai,2025-01-01,Occasional
+C0881,20,Male,Madurai,2025-01-01,At-Risk
+C0882,41,Female,Tiruppur,2025-01-01,At-Risk
+C0883,24,Male,Erode,2025-01-01,Regular
+C0884,21,Male,Coimbatore,2025-01-01,Regular
+C0885,55,Male,Chennai,2025-01-01,Occasional
+C0886,59,Female,Salem,2025-01-01,Occasional
+C0887,35,Female,Chennai,2025-01-01,Occasional
+C0888,46,Male,Coimbatore,2025-01-01,Occasional
+C0889,24,Female,Coimbatore,2025-05-14,Occasional
+C0890,34,Male,Coimbatore,2025-01-01,Regular
+C0891,44,Male,Chennai,2025-01-01,Regular
+C0892,28,Female,Salem,2025-01-01,Regular
+C0893,27,Female,Salem,2025-01-01,High-Value Loyal
+C0894,45,Female,Coimbatore,2025-01-01,Regular
+C0895,57,Female,Madurai,2025-01-01,Price-Sensitive
+C0896,25,Male,Madurai,2025-01-16,Regular
+C0897,46,Male,Erode,2025-01-01,Regular
+C0898,36,Female,Bangalore,2025-01-01,Occasional
+C0899,25,Female,Bangalore,2025-01-01,Price-Sensitive
+C0900,40,Male,Salem,2025-01-01,Regular
+C0901,34,Female,Tiruppur,2025-06-27,Price-Sensitive
+C0902,31,Female,Tiruppur,2025-01-01,At-Risk
+C0903,30,Male,Coimbatore,2025-01-01,Occasional
+C0904,42,Female,Chennai,2025-01-01,Price-Sensitive
+C0905,25,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0906,68,Male,Chennai,2025-01-01,At-Risk
+C0907,49,Female,Madurai,2025-01-01,Regular
+C0908,37,Female,Madurai,2025-01-01,At-Risk
+C0909,60,Female,Salem,2025-01-01,Occasional
+C0910,29,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0911,55,Female,Erode,2025-01-01,High-Value Loyal
+C0912,54,Male,Coimbatore,2025-01-01,Price-Sensitive
+C0913,35,Male,Salem,2025-01-01,Occasional
+C0914,28,Male,Chennai,2025-01-01,High-Value Loyal
+C0915,29,Male,Karur,2025-01-01,Price-Sensitive
+C0916,40,Male,Bangalore,2025-01-01,At-Risk
+C0917,59,Female,Erode,2025-01-01,Occasional
+C0918,38,Female,Chennai,2025-01-01,Occasional
+C0919,32,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0920,30,Male,Bangalore,2025-06-30,Price-Sensitive
+C0921,37,Female,Chennai,2025-01-19,Regular
+C0922,54,Male,Coimbatore,2025-01-01,At-Risk
+C0923,44,Male,Coimbatore,2025-01-01,Regular
+C0924,21,Male,Erode,2025-01-01,Occasional
+C0925,36,Female,Coimbatore,2025-01-01,Regular
+C0926,52,Female,Salem,2025-01-01,Regular
+C0927,45,Female,Erode,2025-01-01,Price-Sensitive
+C0928,18,Female,Tiruppur,2025-04-06,Occasional
+C0929,48,Male,Salem,2025-01-01,Occasional
+C0930,32,Male,Coimbatore,2025-11-07,New
+C0931,55,Female,Chennai,2025-10-21,New
+C0932,28,Male,Coimbatore,2025-01-01,At-Risk
+C0933,40,Female,Coimbatore,2025-01-01,Regular
+C0934,38,Female,Tiruppur,2025-01-01,Occasional
+C0935,28,Female,Chennai,2025-01-01,At-Risk
+C0936,42,Male,Coimbatore,2025-01-01,Regular
+C0937,32,Female,Chennai,2025-01-01,High-Value Loyal
+C0938,41,Female,Madurai,2025-01-01,Price-Sensitive
+C0939,29,Female,Chennai,2025-01-01,Occasional
+C0940,33,Female,Chennai,2025-04-23,Occasional
+C0941,33,Female,Tiruppur,2025-10-24,New
+C0942,30,Female,Chennai,2025-01-01,Occasional
+C0943,30,Male,Salem,2025-01-01,Regular
+C0944,26,Female,Coimbatore,2025-01-01,Regular
+C0945,50,Female,Coimbatore,2025-01-01,Regular
+C0946,31,Female,Erode,2025-01-01,High-Value Loyal
+C0947,50,Male,Salem,2025-01-01,Price-Sensitive
+C0948,29,Male,Tiruppur,2025-01-01,Price-Sensitive
+C0949,38,Male,Chennai,2025-02-24,Regular
+C0950,18,Female,Coimbatore,2025-01-01,Regular
+C0951,48,Female,Coimbatore,2025-01-01,At-Risk
+C0952,22,Male,Karur,2025-01-01,High-Value Loyal
+C0953,32,Female,Coimbatore,2025-01-01,Occasional
+C0954,75,Female,Madurai,2025-01-01,Occasional
+C0955,47,Female,Salem,2025-01-01,Price-Sensitive
+C0956,27,Female,Tiruppur,2025-01-01,Regular
+C0957,22,Male,Chennai,2025-01-01,Price-Sensitive
+C0958,29,Female,Tiruppur,2025-01-01,Regular
+C0959,18,Female,Coimbatore,2025-01-01,Occasional
+C0960,18,Female,Erode,2025-01-01,High-Value Loyal
+C0961,49,Female,Madurai,2025-01-01,Occasional
+C0962,48,Male,Salem,2025-01-01,Occasional
+C0963,19,Male,Karur,2025-01-01,Regular
+C0964,50,Male,Madurai,2025-01-01,High-Value Loyal
+C0965,50,Female,Salem,2025-01-01,Regular
+C0966,45,Male,Tiruppur,2025-01-01,Regular
+C0967,43,Male,Chennai,2025-01-01,High-Value Loyal
+C0968,51,Male,Tiruppur,2025-01-01,At-Risk
+C0969,24,Female,Salem,2025-01-01,Regular
+C0970,28,Female,Tiruppur,2025-04-27,Price-Sensitive
+C0971,31,Male,Chennai,2025-11-01,New
+C0972,42,Female,Tiruppur,2025-01-01,High-Value Loyal
+C0973,37,Female,Tiruppur,2025-01-01,Occasional
+C0974,40,Male,Coimbatore,2025-01-01,At-Risk
+C0975,45,Female,Madurai,2025-01-01,Occasional
+C0976,20,Female,Erode,2025-01-01,Regular
+C0977,18,Female,Salem,2025-01-01,Regular
+C0978,32,Male,Coimbatore,2025-01-01,High-Value Loyal
+C0979,28,Female,Coimbatore,2025-01-01,Occasional
+C0980,37,Female,Bangalore,2025-10-05,New
+C0981,66,Female,Salem,2025-09-20,New
+C0982,39,Female,Salem,2025-01-01,High-Value Loyal
+C0983,31,Male,Karur,2025-01-01,Price-Sensitive
+C0984,49,Male,Madurai,2025-01-01,Regular
+C0985,30,Female,Tiruppur,2025-01-01,At-Risk
+C0986,54,Female,Salem,2025-01-01,High-Value Loyal
+C0987,32,Female,Salem,2025-01-01,At-Risk
+C0988,40,Male,Coimbatore,2025-03-16,Price-Sensitive
+C0989,51,Female,Chennai,2025-01-01,High-Value Loyal
+C0990,62,Male,Madurai,2025-01-01,High-Value Loyal
+C0991,18,Female,Tiruppur,2025-01-01,Price-Sensitive
+C0992,40,Male,Madurai,2025-01-01,High-Value Loyal
+C0993,47,Female,Madurai,2025-03-24,Occasional
+C0994,40,Male,Coimbatore,2025-01-01,At-Risk
+C0995,43,Female,Bangalore,2025-01-01,Occasional
+C0996,48,Male,Karur,2025-01-01,Regular
+C0997,49,Female,Coimbatore,2025-01-01,Occasional
+C0998,34,Male,Tiruppur,2025-01-01,High-Value Loyal
+C0999,42,Female,Madurai,2025-11-07,New
+C1000,22,Female,Salem,2025-01-01,Regular
+C1001,51,Female,Coimbatore,2025-01-01,Regular
+C1002,31,Female,Coimbatore,2025-01-01,Regular
+C1003,32,Female,Chennai,2025-10-10,New
+C1004,18,Female,Tiruppur,2025-01-01,High-Value Loyal
+C1005,54,Female,Bangalore,2025-01-01,At-Risk
+C1006,46,Male,Salem,2025-01-01,Price-Sensitive
+C1007,36,Female,Tiruppur,2025-03-17,Price-Sensitive
+C1008,53,Female,Erode,2025-10-15,New
+C1009,18,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1010,51,Male,Bangalore,2025-01-01,At-Risk
+C1011,37,Female,Madurai,2025-01-01,High-Value Loyal
+C1012,44,Female,Erode,2025-01-01,Price-Sensitive
+C1013,21,Male,Bangalore,2025-01-01,Occasional
+C1014,45,Male,Coimbatore,2025-01-01,Occasional
+C1015,49,Female,Bangalore,2025-01-01,At-Risk
+C1016,49,Male,Karur,2025-09-20,New
+C1017,35,Male,Erode,2025-01-01,Price-Sensitive
+C1018,37,Male,Coimbatore,2025-01-01,Occasional
+C1019,53,Male,Tiruppur,2025-01-01,Occasional
+C1020,31,Female,Chennai,2025-01-01,Regular
+C1021,60,Female,Madurai,2025-01-01,Regular
+C1022,36,Female,Bangalore,2025-01-01,Regular
+C1023,28,Female,Bangalore,2025-01-01,High-Value Loyal
+C1024,28,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1025,44,Female,Tiruppur,2025-01-01,Price-Sensitive
+C1026,22,Male,Coimbatore,2025-01-01,Occasional
+C1027,50,Male,Bangalore,2025-01-01,At-Risk
+C1028,18,Female,Madurai,2025-01-01,Occasional
+C1029,38,Female,Chennai,2025-01-01,High-Value Loyal
+C1030,46,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1031,34,Male,Coimbatore,2025-01-01,Regular
+C1032,33,Female,Coimbatore,2025-09-01,New
+C1033,18,Female,Salem,2025-01-01,Regular
+C1034,18,Male,Bangalore,2025-03-13,Occasional
+C1035,52,Female,Tiruppur,2025-01-01,At-Risk
+C1036,20,Male,Salem,2025-10-13,New
+C1037,58,Female,Erode,2025-01-01,Regular
+C1038,48,Male,Erode,2025-01-01,High-Value Loyal
+C1039,35,Male,Erode,2025-01-01,High-Value Loyal
+C1040,33,Female,Karur,2025-01-01,High-Value Loyal
+C1041,44,Female,Chennai,2025-01-01,Regular
+C1042,40,Male,Karur,2025-01-01,Occasional
+C1043,48,Male,Bangalore,2025-01-01,At-Risk
+C1044,53,Male,Bangalore,2025-01-01,Occasional
+C1045,41,Male,Chennai,2025-01-01,Occasional
+C1046,41,Female,Tiruppur,2025-01-01,Regular
+C1047,33,Female,Salem,2025-01-01,Price-Sensitive
+C1048,36,Male,Erode,2025-01-01,Occasional
+C1049,34,Female,Tiruppur,2025-01-01,At-Risk
+C1050,37,Female,Bangalore,2025-01-01,At-Risk
+C1051,37,Male,Chennai,2025-01-01,Regular
+C1052,39,Female,Salem,2025-01-01,High-Value Loyal
+C1053,47,Male,Tiruppur,2025-01-01,Regular
+C1054,54,Male,Tiruppur,2025-01-01,Regular
+C1055,49,Male,Erode,2025-01-01,At-Risk
+C1056,41,Female,Salem,2025-01-01,Regular
+C1057,37,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1058,19,Female,Tiruppur,2025-01-01,Occasional
+C1059,51,Female,Coimbatore,2025-01-01,Regular
+C1060,41,Female,Bangalore,2025-01-01,Regular
+C1061,29,Male,Coimbatore,2025-01-01,Occasional
+C1062,53,Female,Erode,2025-01-01,Price-Sensitive
+C1063,27,Female,Chennai,2025-01-01,Regular
+C1064,59,Male,Tiruppur,2025-01-01,Regular
+C1065,53,Female,Erode,2025-05-04,Price-Sensitive
+C1066,31,Male,Chennai,2025-01-01,Regular
+C1067,54,Male,Coimbatore,2025-01-01,At-Risk
+C1068,35,Male,Chennai,2025-03-14,Regular
+C1069,26,Male,Coimbatore,2025-01-01,High-Value Loyal
+C1070,18,Female,Bangalore,2025-01-01,Occasional
+C1071,37,Male,Tiruppur,2025-01-19,Occasional
+C1072,30,Female,Erode,2025-02-13,Occasional
+C1073,18,Female,Chennai,2025-01-01,Regular
+C1074,50,Male,Salem,2025-11-20,New
+C1075,32,Male,Madurai,2025-01-01,Occasional
+C1076,26,Male,Tiruppur,2025-01-01,Occasional
+C1077,48,Male,Bangalore,2025-01-01,Regular
+C1078,23,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1079,60,Male,Madurai,2025-01-01,Occasional
+C1080,53,Female,Coimbatore,2025-01-01,Regular
+C1081,27,Female,Coimbatore,2025-01-01,Occasional
+C1082,23,Male,Bangalore,2025-01-01,High-Value Loyal
+C1083,46,Female,Chennai,2025-10-17,New
+C1084,40,Male,Bangalore,2025-01-01,Occasional
+C1085,58,Female,Salem,2025-01-01,At-Risk
+C1086,39,Male,Bangalore,2025-01-01,Occasional
+C1087,27,Male,Erode,2025-01-01,High-Value Loyal
+C1088,51,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1089,32,Female,Erode,2025-01-01,Occasional
+C1090,26,Female,Coimbatore,2025-05-11,Price-Sensitive
+C1091,57,Male,Salem,2025-01-01,Regular
+C1092,53,Male,Tiruppur,2025-01-01,Occasional
+C1093,50,Male,Tiruppur,2025-01-01,At-Risk
+C1094,28,Female,Coimbatore,2025-01-01,Occasional
+C1095,18,Female,Karur,2025-01-01,Regular
+C1096,34,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1097,57,Female,Erode,2025-01-01,Price-Sensitive
+C1098,61,Male,Tiruppur,2025-10-30,New
+C1099,63,Male,Salem,2025-01-01,Regular
+C1100,64,Female,Madurai,2025-01-01,Regular
+C1101,25,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1102,24,Male,Salem,2025-01-01,Occasional
+C1103,43,Male,Salem,2025-01-01,Price-Sensitive
+C1104,51,Male,Madurai,2025-01-01,Occasional
+C1105,52,Female,Karur,2025-01-01,Regular
+C1106,25,Male,Tiruppur,2025-01-01,Price-Sensitive
+C1107,27,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1108,42,Female,Tiruppur,2025-03-07,Regular
+C1109,48,Male,Chennai,2025-04-04,Occasional
+C1110,49,Male,Bangalore,2025-01-01,Price-Sensitive
+C1111,31,Male,Bangalore,2025-01-01,At-Risk
+C1112,18,Female,Madurai,2025-01-01,Regular
+C1113,22,Male,Chennai,2025-01-01,High-Value Loyal
+C1114,38,Female,Coimbatore,2025-10-19,New
+C1115,31,Female,Madurai,2025-01-01,High-Value Loyal
+C1116,38,Male,Madurai,2025-01-01,Regular
+C1117,33,Female,Chennai,2025-01-01,Regular
+C1118,18,Male,Karur,2025-01-01,Occasional
+C1119,43,Female,Salem,2025-01-01,At-Risk
+C1120,20,Male,Bangalore,2025-01-01,Price-Sensitive
+C1121,37,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1122,48,Female,Karur,2025-01-01,Regular
+C1123,23,Female,Tiruppur,2025-01-01,Regular
+C1124,64,Female,Salem,2025-01-01,Occasional
+C1125,18,Male,Coimbatore,2025-01-01,High-Value Loyal
+C1126,32,Female,Tiruppur,2025-01-01,Regular
+C1127,38,Male,Madurai,2025-01-01,Regular
+C1128,24,Female,Chennai,2025-01-01,High-Value Loyal
+C1129,40,Male,Chennai,2025-01-01,Occasional
+C1130,35,Male,Madurai,2025-01-01,Price-Sensitive
+C1131,28,Male,Chennai,2025-01-01,High-Value Loyal
+C1132,29,Male,Tiruppur,2025-01-01,Occasional
+C1133,18,Female,Coimbatore,2025-02-01,Price-Sensitive
+C1134,45,Female,Chennai,2025-03-04,Price-Sensitive
+C1135,34,Male,Salem,2025-03-27,Price-Sensitive
+C1136,36,Female,Bangalore,2025-05-08,Occasional
+C1137,29,Female,Chennai,2025-01-01,Price-Sensitive
+C1138,18,Male,Bangalore,2025-01-01,Regular
+C1139,57,Male,Coimbatore,2025-01-01,Regular
+C1140,50,Male,Coimbatore,2025-01-01,Regular
+C1141,55,Female,Chennai,2025-01-01,Occasional
+C1142,24,Female,Coimbatore,2025-01-01,Regular
+C1143,46,Male,Erode,2025-01-01,Regular
+C1144,45,Female,Salem,2025-05-29,Price-Sensitive
+C1145,23,Female,Coimbatore,2025-02-28,Regular
+C1146,28,Male,Karur,2025-01-01,Regular
+C1147,53,Male,Coimbatore,2025-01-01,High-Value Loyal
+C1148,33,Male,Chennai,2025-01-01,Regular
+C1149,28,Male,Salem,2025-01-01,Regular
+C1150,38,Male,Chennai,2025-01-01,Regular
+C1151,35,Female,Coimbatore,2025-01-01,Regular
+C1152,44,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1153,47,Female,Madurai,2025-01-01,At-Risk
+C1154,18,Female,Tiruppur,2025-01-01,Occasional
+C1155,44,Male,Madurai,2025-01-01,Occasional
+C1156,38,Female,Salem,2025-01-01,At-Risk
+C1157,35,Female,Erode,2025-10-18,New
+C1158,39,Male,Tiruppur,2025-01-01,Occasional
+C1159,48,Male,Tiruppur,2025-01-01,At-Risk
+C1160,29,Male,Chennai,2025-01-01,At-Risk
+C1161,42,Male,Chennai,2025-01-01,Price-Sensitive
+C1162,22,Female,Salem,2025-01-01,Occasional
+C1163,32,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1164,31,Female,Karur,2025-01-01,High-Value Loyal
+C1165,18,Male,Bangalore,2025-01-01,Occasional
+C1166,35,Male,Erode,2025-01-01,Occasional
+C1167,43,Male,Coimbatore,2025-01-01,Regular
+C1168,39,Male,Madurai,2025-01-01,Occasional
+C1169,41,Male,Chennai,2025-01-01,Occasional
+C1170,49,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1171,25,Male,Tiruppur,2025-01-01,High-Value Loyal
+C1172,45,Female,Salem,2025-01-01,Regular
+C1173,40,Female,Madurai,2025-01-01,Price-Sensitive
+C1174,62,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1175,23,Female,Madurai,2025-09-01,New
+C1176,49,Female,Erode,2025-01-01,At-Risk
+C1177,29,Male,Salem,2025-01-01,At-Risk
+C1178,50,Female,Erode,2025-01-01,Regular
+C1179,46,Female,Coimbatore,2025-01-01,Regular
+C1180,39,Female,Karur,2025-01-01,Regular
+C1181,18,Female,Coimbatore,2025-01-01,Occasional
+C1182,39,Male,Salem,2025-01-01,At-Risk
+C1183,33,Male,Salem,2025-01-01,Regular
+C1184,40,Female,Chennai,2025-01-01,Occasional
+C1185,41,Female,Tiruppur,2025-01-01,Regular
+C1186,43,Female,Salem,2025-01-15,Regular
+C1187,37,Male,Coimbatore,2025-01-01,Regular
+C1188,41,Male,Erode,2025-01-01,High-Value Loyal
+C1189,25,Male,Chennai,2025-01-01,At-Risk
+C1190,43,Female,Salem,2025-01-01,Regular
+C1191,37,Male,Salem,2025-01-01,Price-Sensitive
+C1192,35,Female,Chennai,2025-01-31,Price-Sensitive
+C1193,27,Male,Chennai,2025-01-01,Regular
+C1194,27,Male,Tiruppur,2025-01-01,Regular
+C1195,52,Female,Erode,2025-01-01,Price-Sensitive
+C1196,33,Female,Coimbatore,2025-01-01,Regular
+C1197,26,Female,Tiruppur,2025-01-01,At-Risk
+C1198,29,Male,Salem,2025-01-01,High-Value Loyal
+C1199,30,Female,Bangalore,2025-01-01,Price-Sensitive
+C1200,43,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1201,24,Female,Salem,2025-01-01,Regular
+C1202,42,Female,Coimbatore,2025-01-01,Regular
+C1203,27,Female,Tiruppur,2025-11-14,New
+C1204,18,Male,Coimbatore,2025-01-01,Regular
+C1205,42,Male,Madurai,2025-01-01,Regular
+C1206,42,Female,Tiruppur,2025-01-01,Regular
+C1207,31,Female,Coimbatore,2025-01-01,Regular
+C1208,34,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1209,56,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1210,40,Male,Coimbatore,2025-01-01,Regular
+C1211,34,Female,Tiruppur,2025-01-01,Price-Sensitive
+C1212,18,Female,Coimbatore,2025-01-01,Regular
+C1213,43,Female,Chennai,2025-01-01,High-Value Loyal
+C1214,55,Male,Salem,2025-01-01,Occasional
+C1215,57,Female,Coimbatore,2025-09-20,New
+C1216,57,Female,Erode,2025-01-01,High-Value Loyal
+C1217,35,Female,Coimbatore,2025-01-01,Regular
+C1218,55,Female,Chennai,2025-01-01,Occasional
+C1219,31,Female,Salem,2025-04-02,Price-Sensitive
+C1220,40,Female,Erode,2025-01-01,High-Value Loyal
+C1221,36,Female,Coimbatore,2025-01-01,Regular
+C1222,41,Male,Chennai,2025-05-02,Price-Sensitive
+C1223,41,Male,Madurai,2025-01-01,Regular
+C1224,41,Female,Madurai,2025-01-01,Regular
+C1225,27,Female,Erode,2025-01-01,Regular
+C1226,48,Male,Salem,2025-01-01,Regular
+C1227,50,Female,Bangalore,2025-01-01,Occasional
+C1228,51,Female,Coimbatore,2025-01-01,At-Risk
+C1229,41,Male,Chennai,2025-01-01,Occasional
+C1230,33,Female,Chennai,2025-04-11,Price-Sensitive
+C1231,48,Male,Chennai,2025-11-02,New
+C1232,27,Female,Tiruppur,2025-01-01,Regular
+C1233,23,Female,Karur,2025-01-01,Regular
+C1234,47,Male,Salem,2025-01-01,At-Risk
+C1235,45,Female,Chennai,2025-01-01,Regular
+C1236,35,Male,Karur,2025-01-01,Price-Sensitive
+C1237,54,Female,Tiruppur,2025-05-14,Price-Sensitive
+C1238,18,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1239,21,Male,Tiruppur,2025-01-01,Occasional
+C1240,54,Male,Erode,2025-01-01,Regular
+C1241,21,Male,Coimbatore,2025-01-01,Regular
+C1242,52,Female,Bangalore,2025-01-01,Occasional
+C1243,49,Female,Tiruppur,2025-03-15,Regular
+C1244,32,Female,Salem,2025-01-01,Price-Sensitive
+C1245,46,Female,Tiruppur,2025-01-01,At-Risk
+C1246,22,Male,Erode,2025-01-01,Price-Sensitive
+C1247,27,Female,Bangalore,2025-01-01,Regular
+C1248,39,Male,Bangalore,2025-01-01,Regular
+C1249,42,Male,Coimbatore,2025-01-01,Regular
+C1250,38,Male,Bangalore,2025-01-01,High-Value Loyal
+C1251,30,Male,Bangalore,2025-01-01,At-Risk
+C1252,33,Male,Chennai,2025-01-01,Regular
+C1253,26,Male,Chennai,2025-01-01,Regular
+C1254,18,Male,Tiruppur,2025-01-03,Price-Sensitive
+C1255,30,Female,Erode,2025-01-01,Regular
+C1256,28,Female,Bangalore,2025-01-01,High-Value Loyal
+C1257,43,Female,Coimbatore,2025-01-01,Regular
+C1258,48,Male,Salem,2025-01-01,Occasional
+C1259,37,Male,Chennai,2025-06-11,Price-Sensitive
+C1260,50,Female,Chennai,2025-01-01,Regular
+C1261,42,Female,Coimbatore,2025-01-01,At-Risk
+C1262,25,Female,Coimbatore,2025-01-01,At-Risk
+C1263,37,Female,Erode,2025-01-01,Price-Sensitive
+C1264,49,Female,Tiruppur,2025-01-01,Regular
+C1265,18,Female,Chennai,2025-01-01,High-Value Loyal
+C1266,20,Female,Coimbatore,2025-01-01,At-Risk
+C1267,44,Male,Tiruppur,2025-01-01,Regular
+C1268,31,Female,Tiruppur,2025-01-01,Occasional
+C1269,58,Male,Madurai,2025-01-01,Price-Sensitive
+C1270,36,Male,Coimbatore,2025-01-01,High-Value Loyal
+C1271,47,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1272,28,Male,Tiruppur,2025-01-01,At-Risk
+C1273,32,Female,Erode,2025-01-01,Price-Sensitive
+C1274,42,Male,Salem,2025-01-01,Occasional
+C1275,35,Female,Bangalore,2025-01-01,At-Risk
+C1276,40,Female,Coimbatore,2025-01-30,Occasional
+C1277,20,Female,Tiruppur,2025-01-01,Price-Sensitive
+C1278,37,Female,Karur,2025-01-01,Price-Sensitive
+C1279,41,Male,Salem,2025-01-01,Price-Sensitive
+C1280,38,Female,Coimbatore,2025-01-01,Regular
+C1281,52,Female,Tiruppur,2025-01-01,High-Value Loyal
+C1282,18,Female,Salem,2025-01-01,Regular
+C1283,18,Male,Bangalore,2025-01-01,Occasional
+C1284,45,Male,Chennai,2025-01-01,Occasional
+C1285,41,Female,Chennai,2025-01-01,Occasional
+C1286,18,Female,Tiruppur,2025-01-01,Regular
+C1287,35,Female,Madurai,2025-01-01,Price-Sensitive
+C1288,35,Female,Chennai,2025-01-01,At-Risk
+C1289,39,Female,Salem,2025-01-01,Regular
+C1290,23,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1291,29,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1292,41,Male,Tiruppur,2025-01-01,Occasional
+C1293,46,Male,Salem,2025-01-01,Regular
+C1294,28,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1295,33,Male,Coimbatore,2025-11-16,New
+C1296,43,Male,Madurai,2025-01-01,Price-Sensitive
+C1297,33,Male,Coimbatore,2025-01-01,At-Risk
+C1298,35,Female,Coimbatore,2025-11-27,New
+C1299,23,Female,Erode,2025-01-01,Regular
+C1300,42,Female,Salem,2025-01-01,Occasional
+C1301,50,Female,Bangalore,2025-01-01,Occasional
+C1302,30,Male,Coimbatore,2025-11-09,New
+C1303,42,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1304,18,Male,Tiruppur,2025-01-01,Regular
+C1305,30,Female,Karur,2025-01-01,At-Risk
+C1306,46,Male,Salem,2025-01-01,Regular
+C1307,39,Female,Bangalore,2025-01-01,Price-Sensitive
+C1308,60,Female,Bangalore,2025-01-01,Regular
+C1309,47,Male,Salem,2025-11-05,New
+C1310,37,Female,Chennai,2025-01-01,At-Risk
+C1311,37,Male,Madurai,2025-01-01,Regular
+C1312,47,Male,Salem,2025-01-01,Price-Sensitive
+C1313,33,Female,Coimbatore,2025-01-01,Regular
+C1314,65,Male,Chennai,2025-01-01,Occasional
+C1315,38,Female,Coimbatore,2025-01-01,Occasional
+C1316,55,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1317,31,Female,Chennai,2025-01-01,High-Value Loyal
+C1318,25,Male,Erode,2025-01-01,Regular
+C1319,46,Male,Chennai,2025-01-01,Price-Sensitive
+C1320,18,Male,Coimbatore,2025-01-01,Occasional
+C1321,44,Female,Coimbatore,2025-01-01,Occasional
+C1322,41,Female,Bangalore,2025-01-01,High-Value Loyal
+C1323,18,Female,Tiruppur,2025-01-01,Regular
+C1324,20,Female,Tiruppur,2025-01-01,At-Risk
+C1325,62,Male,Coimbatore,2025-01-01,High-Value Loyal
+C1326,42,Male,Coimbatore,2025-01-01,Regular
+C1327,40,Female,Chennai,2025-01-01,At-Risk
+C1328,29,Female,Erode,2025-01-01,High-Value Loyal
+C1329,49,Female,Bangalore,2025-06-20,Price-Sensitive
+C1330,18,Male,Coimbatore,2025-01-01,Regular
+C1331,45,Female,Coimbatore,2025-01-01,At-Risk
+C1332,42,Female,Coimbatore,2025-01-01,Price-Sensitive
+C1333,35,Male,Coimbatore,2025-01-01,At-Risk
+C1334,18,Female,Erode,2025-01-01,Regular
+C1335,52,Female,Bangalore,2025-01-01,Occasional
+C1336,27,Male,Salem,2025-01-01,Price-Sensitive
+C1337,28,Male,Coimbatore,2025-01-01,Regular
+C1338,41,Male,Karur,2025-03-20,Regular
+C1339,35,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1340,43,Male,Erode,2025-09-13,New
+C1341,23,Male,Erode,2025-01-01,Price-Sensitive
+C1342,30,Female,Bangalore,2025-01-01,Occasional
+C1343,24,Male,Tiruppur,2025-01-15,Price-Sensitive
+C1344,56,Female,Bangalore,2025-01-01,Occasional
+C1345,32,Female,Madurai,2025-01-01,Occasional
+C1346,24,Male,Tiruppur,2025-01-01,Occasional
+C1347,38,Female,Tiruppur,2025-01-01,Occasional
+C1348,18,Male,Coimbatore,2025-01-01,Regular
+C1349,25,Female,Erode,2025-01-01,At-Risk
+C1350,43,Male,Salem,2025-01-01,Price-Sensitive
+C1351,51,Female,Bangalore,2025-01-01,Regular
+C1352,18,Female,Coimbatore,2025-01-01,Occasional
+C1353,37,Male,Tiruppur,2025-01-01,High-Value Loyal
+C1354,62,Male,Coimbatore,2025-10-17,New
+C1355,26,Female,Coimbatore,2025-01-01,At-Risk
+C1356,60,Female,Salem,2025-01-01,At-Risk
+C1357,51,Male,Coimbatore,2025-01-01,Regular
+C1358,31,Male,Madurai,2025-01-01,Regular
+C1359,43,Female,Coimbatore,2025-01-01,Regular
+C1360,43,Male,Karur,2025-01-01,High-Value Loyal
+C1361,35,Male,Coimbatore,2025-01-01,High-Value Loyal
+C1362,33,Male,Madurai,2025-01-01,High-Value Loyal
+C1363,50,Male,Salem,2025-11-01,New
+C1364,48,Female,Karur,2025-01-01,High-Value Loyal
+C1365,49,Male,Salem,2025-01-01,High-Value Loyal
+C1366,42,Female,Madurai,2025-01-01,Price-Sensitive
+C1367,23,Female,Tiruppur,2025-01-01,Occasional
+C1368,34,Male,Coimbatore,2025-03-07,Price-Sensitive
+C1369,51,Female,Coimbatore,2025-01-01,Occasional
+C1370,51,Female,Tiruppur,2025-01-01,At-Risk
+C1371,32,Female,Tiruppur,2025-01-01,Occasional
+C1372,32,Male,Chennai,2025-01-01,Occasional
+C1373,44,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1374,37,Female,Salem,2025-01-01,Occasional
+C1375,33,Female,Coimbatore,2025-01-01,Regular
+C1376,35,Female,Coimbatore,2025-01-01,Occasional
+C1377,25,Female,Tiruppur,2025-01-01,Regular
+C1378,34,Female,Chennai,2025-01-01,Price-Sensitive
+C1379,29,Female,Tiruppur,2025-03-07,Regular
+C1380,54,Female,Erode,2025-01-01,High-Value Loyal
+C1381,40,Female,Tiruppur,2025-01-20,Regular
+C1382,50,Female,Tiruppur,2025-01-01,Price-Sensitive
+C1383,52,Female,Madurai,2025-01-01,Regular
+C1384,50,Male,Tiruppur,2025-01-01,Price-Sensitive
+C1385,21,Female,Erode,2025-01-01,At-Risk
+C1386,45,Female,Chennai,2025-01-01,High-Value Loyal
+C1387,36,Male,Chennai,2025-01-01,Price-Sensitive
+C1388,41,Male,Erode,2025-01-01,Regular
+C1389,34,Male,Tiruppur,2025-02-21,Regular
+C1390,42,Female,Chennai,2025-01-01,Price-Sensitive
+C1391,36,Female,Coimbatore,2025-01-01,At-Risk
+C1392,18,Female,Bangalore,2025-01-01,Regular
+C1393,39,Female,Chennai,2025-01-01,Occasional
+C1394,46,Male,Tiruppur,2025-01-01,Regular
+C1395,33,Female,Chennai,2025-01-01,Occasional
+C1396,30,Female,Karur,2025-01-01,Occasional
+C1397,38,Male,Erode,2025-01-01,Occasional
+C1398,44,Male,Chennai,2025-01-01,Occasional
+C1399,56,Female,Chennai,2025-01-01,High-Value Loyal
+C1400,39,Male,Tiruppur,2025-01-01,Price-Sensitive
+C1401,38,Male,Salem,2025-01-01,Price-Sensitive
+C1402,44,Female,Salem,2025-04-06,Price-Sensitive
+C1403,47,Male,Erode,2025-01-01,High-Value Loyal
+C1404,41,Female,Coimbatore,2025-01-01,Occasional
+C1405,39,Male,Salem,2025-01-01,Regular
+C1406,44,Male,Tiruppur,2025-01-01,High-Value Loyal
+C1407,65,Male,Chennai,2025-01-01,Regular
+C1408,18,Female,Coimbatore,2025-01-01,Occasional
+C1409,38,Male,Bangalore,2025-01-01,Price-Sensitive
+C1410,35,Female,Coimbatore,2025-01-01,Regular
+C1411,48,Male,Tiruppur,2025-04-25,Price-Sensitive
+C1412,27,Male,Madurai,2025-01-01,Occasional
+C1413,41,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1414,38,Male,Tiruppur,2025-01-01,Occasional
+C1415,43,Female,Chennai,2025-01-01,Occasional
+C1416,55,Female,Coimbatore,2025-03-04,Occasional
+C1417,40,Female,Tiruppur,2025-01-01,At-Risk
+C1418,33,Female,Madurai,2025-01-01,Occasional
+C1419,18,Male,Tiruppur,2025-01-01,Occasional
+C1420,26,Male,Chennai,2025-05-02,Occasional
+C1421,18,Male,Erode,2025-06-21,Price-Sensitive
+C1422,50,Male,Chennai,2025-01-01,High-Value Loyal
+C1423,56,Male,Bangalore,2025-04-21,Occasional
+C1424,34,Male,Tiruppur,2025-01-01,Occasional
+C1425,30,Female,Bangalore,2025-01-01,At-Risk
+C1426,34,Female,Madurai,2025-04-20,Occasional
+C1427,37,Male,Chennai,2025-01-01,Occasional
+C1428,18,Male,Tiruppur,2025-11-04,New
+C1429,32,Male,Erode,2025-01-01,Occasional
+C1430,23,Female,Bangalore,2025-01-01,Regular
+C1431,32,Male,Coimbatore,2025-01-01,Regular
+C1432,35,Female,Tiruppur,2025-01-01,High-Value Loyal
+C1433,36,Female,Coimbatore,2025-01-01,High-Value Loyal
+C1434,18,Female,Erode,2025-01-01,Regular
+C1435,32,Female,Tiruppur,2025-01-06,Price-Sensitive
+C1436,42,Male,Coimbatore,2025-04-10,Price-Sensitive
+C1437,49,Male,Chennai,2025-01-01,High-Value Loyal
+C1438,18,Male,Coimbatore,2025-01-01,Occasional
+C1439,24,Male,Tiruppur,2025-01-01,High-Value Loyal
+C1440,36,Female,Chennai,2025-01-01,At-Risk
+C1441,70,Female,Chennai,2025-01-01,Regular
+C1442,28,Female,Salem,2025-01-01,Occasional
+C1443,18,Male,Coimbatore,2025-01-01,Regular
+C1444,32,Male,Erode,2025-01-01,Occasional
+C1445,47,Female,Erode,2025-01-01,Regular
+C1446,36,Male,Coimbatore,2025-04-05,Price-Sensitive
+C1447,23,Female,Erode,2025-01-01,Regular
+C1448,33,Male,Coimbatore,2025-01-01,At-Risk
+C1449,35,Male,Salem,2025-01-01,Occasional
+C1450,40,Female,Chennai,2025-01-01,Price-Sensitive
+C1451,27,Male,Coimbatore,2025-01-01,Price-Sensitive
+C1452,26,Female,Tiruppur,2025-11-25,New
+C1453,31,Male,Salem,2025-01-01,Regular
+C1454,55,Male,Salem,2025-01-01,Regular
+C1455,30,Female,Tiruppur,2025-01-01,Regular
+C1456,30,Female,Madurai,2025-01-01,Regular
+C1457,46,Male,Coimbatore,2025-01-01,Occasional
+C1458,18,Female,Bangalore,2025-09-05,New
+C1459,53,Female,Bangalore,2025-10-26,New
+C1460,18,Female,Bangalore,2025-01-01,Occasional
+C1461,34,Male,Karur,2025-01-01,Occasional
+C1462,60,Male,Salem,2025-01-01,At-Risk
+C1463,37,Female,Coimbatore,2025-01-01,At-Risk
+C1464,43,Female,Chennai,2025-01-01,Regular
+C1465,35,Female,Coimbatore,2025-01-01,Occasional
+C1466,20,Male,Coimbatore,2025-05-17,Price-Sensitive
+C1467,44,Male,Madurai,2025-01-01,Regular
+C1468,23,Female,Tiruppur,2025-01-01,Regular
+C1469,34,Female,Karur,2025-10-30,New
+C1470,20,Male,Salem,2025-09-13,New
+C1471,37,Male,Bangalore,2025-01-01,At-Risk
+C1472,28,Female,Chennai,2025-01-01,Price-Sensitive
+C1473,30,Male,Coimbatore,2025-01-01,Regular
+C1474,34,Male,Chennai,2025-01-01,Regular
+C1475,24,Female,Salem,2025-01-01,Occasional
+C1476,53,Female,Coimbatore,2025-01-01,Occasional
+C1477,36,Female,Salem,2025-01-01,Occasional
+C1478,18,Female,Salem,2025-01-01,Occasional
+C1479,25,Male,Salem,2025-01-01,Regular
+C1480,31,Female,Erode,2025-01-01,Price-Sensitive
+C1481,23,Male,Salem,2025-01-01,Regular
+C1482,38,Male,Coimbatore,2025-01-01,Regular
+C1483,38,Male,Karur,2025-01-01,High-Value Loyal
+C1484,39,Female,Chennai,2025-01-01,Regular
+C1485,52,Male,Karur,2025-01-01,At-Risk
+C1486,36,Male,Coimbatore,2025-01-01,Occasional
+C1487,39,Male,Erode,2025-02-17,Regular
+C1488,28,Male,Tiruppur,2025-01-01,Price-Sensitive
+C1489,47,Male,Coimbatore,2025-01-01,Occasional
+C1490,49,Male,Coimbatore,2025-01-01,High-Value Loyal
+C1491,52,Female,Bangalore,2025-01-01,Regular
+C1492,29,Male,Coimbatore,2025-01-01,Regular
+C1493,41,Male,Salem,2025-01-04,Occasional
+C1494,33,Male,Tiruppur,2025-03-12,Regular
+C1495,33,Female,Tiruppur,2025-01-01,High-Value Loyal
+C1496,25,Female,Salem,2025-01-01,High-Value Loyal
+C1497,74,Male,Coimbatore,2025-01-01,Occasional
+C1498,30,Male,Coimbatore,2025-01-01,High-Value Loyal
+C1499,18,Female,Chennai,2025-01-01,Price-Sensitive
+C1500,51,Female,Tiruppur,2025-01-01,High-Value Loyal
